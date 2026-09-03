@@ -3837,6 +3837,48 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+===============+++++++++++++++PLUS DISINI AJA
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🆕 RCTI + (🚀8826 v2)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/rcti.m3u8
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🆕 RCTI + (🚀8826 v3)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="NASIONAL",🆕 MNC + (🚀8826 v2)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/mnctv.m3u8
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="" group-title="NASIONAL",🆕 MNC + (🚀8826 v3)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="NASIONAL",🆕 GTV + (🚀8826 v2)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/gtv.m3u8
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="" group-title="NASIONAL",🆕 GTV + (🚀8826 v3)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="NASIONAL",🆕 INEWS + (🚀8826 v2)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/inews.m3u8
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="" group-title="NASIONAL",🆕 INEWS + (🚀8826 v3)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+
 
 
 ===
@@ -13743,127 +13785,19 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1ff36243-f8ab-4237-a2c2-82dab75ad289
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1ff36243-f8ab-4237-a2c2-82dab75ad289&sub=t11
 
+================= BARU SAMPAI DISIN VOD=====================
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/11/7000fae3-d89e-3395-87fb-aacf2cdc70a5.jpeg" group-title="VOD TRIAL", Action-1-Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/10/c489d810-728d-3753-9381-a418fd302f11.jpeg" group-title="VOD TRIAL", Horror-10 Cloverfield Lane
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2d72707c-4016-4508-a86c-c35f5388e178
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2d72707c-4016-4508-a86c-c35f5388e178&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/20/ce4f2cf4-87fe-340e-a9f0-37ba4c876f13.jpeg" group-title="VOD TRIAL", Horror-A Nightmare on Elm Street
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c004c097-bff6-437c-abb1-6968f5774cae
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c004c097-bff6-437c-abb1-6968f5774cae&sub=t9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/07/39c8652d-0227-379f-9d3c-9f21f0d08899.jpeg" group-title="VOD TRIAL", Horror-1-A Quiet Place: Day One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0605db0a-5458-406f-8315-43c2cc016130
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0605db0a-5458-406f-8315-43c2cc016130&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/25/c6557a2c-98ae-3b91-a968-376930d8fc69.jpeg" group-title="VOD TRIAL", Horror-1-Abigail
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=83fe24d1-8753-47c3-ab17-1fd7d72cc5e4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=83fe24d1-8753-47c3-ab17-1fd7d72cc5e4&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/25/dfd97773-22ba-3352-8240-d96eac6c7cef.jpeg" group-title="VOD TRIAL", Horror-Annabelle
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c3cebc48-2a4a-46e0-9697-c7eb135e74d7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c3cebc48-2a4a-46e0-9697-c7eb135e74d7&sub=t24
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/25/4e0187b4-b8bb-3901-b477-3c79bd494315.jpeg" group-title="VOD TRIAL", Horror-Annabelle Comes Home
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4882b5b6-8f41-4d38-8606-945f46e22566
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4882b5b6-8f41-4d38-8606-945f46e22566&sub=t20
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/10/fffdb3fb-1830-33a7-97b7-13b25ef6a643.jpeg" group-title="VOD TRIAL", Horror-Annabelle: Creation
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0acbe079-4f75-41d2-9d1e-747258f9f09f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0acbe079-4f75-41d2-9d1e-747258f9f09f&sub=t17
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/0b4f139c-004a-3d94-8541-88ed3563a86f.jpeg" group-title="VOD TRIAL", Horror-Beneath
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=25a7d67e-5b12-48fa-81bc-1d78a8568e3e
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=25a7d67e-5b12-48fa-81bc-1d78a8568e3e&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/13/be929f24-e9b0-3c06-8e50-69c9c9832ff8.jpeg" group-title="VOD TRIAL", Horror-Blumhouse is Truth or Dare
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b79501d2-f196-494d-b8f6-cbc26ff4c31d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b79501d2-f196-494d-b8f6-cbc26ff4c31d&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/24/9ba22ef2-ebf1-3bbe-a23c-716ec0ee8a04.jpeg" group-title="VOD TRIAL", Horror-1-Caddo Lake
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b227209d-4b6f-469b-a853-c042af4e20ae
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b227209d-4b6f-469b-a853-c042af4e20ae&sub=t12
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/24/9b3306dc-fe1e-3014-ba65-27821a24622b.jpeg" group-title="VOD TRIAL", Horror-Circle Of Eight
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=cbd398fa-49f1-4b40-819a-303cb7ed3d0c
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cbd398fa-49f1-4b40-819a-303cb7ed3d0c&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/29/39e1ee3f-6267-354a-bc70-c876bf6bf6e7.jpeg" group-title="VOD TRIAL", Horror-Cloverfield (2008)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=7c2112a6-9fc2-4055-92ef-0e4a2cd70298
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=7c2112a6-9fc2-4055-92ef-0e4a2cd70298&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/d3984816-81ac-3917-a598-59760acfcfb6.jpeg" group-title="VOD TRIAL", Horror-1-Cuckoo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=461d48e5-d08a-4577-a068-e4c3b7e5a721
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=461d48e5-d08a-4577-a068-e4c3b7e5a721&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/23/92b933d6-7d4d-30e1-937d-a551eab6439b.jpeg" group-title="VOD TRIAL", Horror-1-Detention
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f914eab6-2d00-41e5-a300-c6109bdfe56e
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f914eab6-2d00-41e5-a300-c6109bdfe56e&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/16/5a787ce5-4c71-31e2-a35c-58a9e8c9feef.jpeg" group-title="VOD TRIAL", Horror-1-Doctor Sleep
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3e4389f8-05ce-4a6e-a03f-e3f491ea369f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3e4389f8-05ce-4a6e-a03f-e3f491ea369f&sub=t12
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/ff661f8b-4ab0-332d-8c44-7bd0ab6e2697.jpeg" group-title="VOD TRIAL", Horror-Event Horizon (1997)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=694511fc-3eb1-4143-ac19-19cde8e5f230
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=694511fc-3eb1-4143-ac19-19cde8e5f230&sub=t5
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/94c80e9f-663e-31d5-add8-9a341133fa61.jpeg" group-title="VOD TRIAL", Horror-1-Evil Dead Rise
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5d3b801d-2a4b-4463-969c-5a26be75f8a4
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5d3b801d-2a4b-4463-969c-5a26be75f8a4&sub=t21
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/26/5f1f563c-8f5e-3b11-93fd-d28a43d748b6.jpeg" group-title="VOD TRIAL", Horror-Finders Keepers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8969a795-8b94-4f8a-bb33-4fcdac14f494
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8969a795-8b94-4f8a-bb33-4fcdac14f494&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/27/c867bff0-7c15-3d4d-a0f9-7bf266522b0b.jpeg" group-title="VOD TRIAL", Horror-1-Five Nights At Freddy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=783cd37d-108f-475e-8c26-7df5cc990c4a
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=783cd37d-108f-475e-8c26-7df5cc990c4a&sub=t6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/24/e50a778b-d043-3839-ac2c-46155f59589d.jpeg" group-title="VOD TRIAL", Horror-1-Get Out
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13896,60 +13830,12 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f891d771-202d-4ae2-a4e1-371c6858d064
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f891d771-202d-4ae2-a4e1-371c6858d064&sub=t18
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/24/bb78ccd9-1f79-31f5-8d5b-80097a96abb6.jpeg" group-title="VOD TRIAL", Horror-1-Lisa Frankenstein
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bb60b877-d931-4dc8-aab9-09c07266b76b
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bb60b877-d931-4dc8-aab9-09c07266b76b&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9e07d6c2-29c7-3042-9353-7046d92637e8.jpeg" group-title="VOD TRIAL", Horror-1-Malignant
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=777337c6-253f-4a3e-aa8b-1a5c636e68b5
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=777337c6-253f-4a3e-aa8b-1a5c636e68b5&sub=t25
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/07/15b27660-483b-339c-a8f7-36db1c59796c.jpeg" group-title="VOD TRIAL", Horror-1-Night Swim
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5e432e47-2faa-47fe-a3c9-bad679a8607f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5e432e47-2faa-47fe-a3c9-bad679a8607f&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/549604ac-afca-31ba-b9fb-bc369d9a9bd2.jpeg" group-title="VOD TRIAL", Horror-One Cut of the Dead
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=06f3e463-1d52-4ae9-a8ec-b7ab68234e1c
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=06f3e463-1d52-4ae9-a8ec-b7ab68234e1c&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/d7d79138-7710-30d3-901d-95692e7942e9.jpeg" group-title="VOD TRIAL", Horror-Orphan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=80a5f4a6-c5e1-4314-b22e-31b77da0d6e4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=80a5f4a6-c5e1-4314-b22e-31b77da0d6e4&sub=t4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/71d2db26-4c7c-3a22-b03d-abd8b5264ca9.jpeg" group-title="VOD TRIAL", Horror-Sadako
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3cbbdc4e-2dca-4090-934b-f0b151293c9e
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3cbbdc4e-2dca-4090-934b-f0b151293c9e&sub=t1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/12/c2f2ad39-fb07-3bad-9ab8-75c13a0388d6.jpeg" group-title="VOD TRIAL", Horror-1-Salem Lot (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=320880cf-f6b2-40b8-b039-953bacced3ad
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=320880cf-f6b2-40b8-b039-953bacced3ad&sub=t35
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/e5b7981b-ed16-3b4e-939b-09e09a9cfa3a.jpeg" group-title="VOD TRIAL", Horror-Scouts Guide to the Zombie Apocalypse
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b94f31eb-c787-4809-8822-fb126a1a0971
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b94f31eb-c787-4809-8822-fb126a1a0971&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6de90173-29b6-3a0b-b25d-a6f64fd6ebea.jpeg" group-title="VOD TRIAL", Horror-Spawn
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=79f4d54a-045c-46a1-bea0-66bdf6db2e1a
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=79f4d54a-045c-46a1-bea0-66bdf6db2e1a&sub=t6
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/14/efc75144-11b7-3a77-9f02-44bf6ca7eff8.jpeg" group-title="VOD TRIAL", Horror-1-Tastes of Horror
@@ -13958,23 +13844,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=cf75d576-6e0f-49a8-be6c-b014fc9adbc1
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cf75d576-6e0f-49a8-be6c-b014fc9adbc1&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/20/8825cccf-7185-3caf-907e-75938526130e.jpeg" group-title="VOD TRIAL", Horror-1-The Blackening
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0d1b505a-c1e4-4053-84fe-6af694f5a356
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0d1b505a-c1e4-4053-84fe-6af694f5a356&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/25/af16111c-e98a-3dc3-aecb-05c6b6c76b14.jpeg" group-title="VOD TRIAL", Horror-The Conjuring
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b9182e6f-4c74-4120-9cf1-9a60aac5d6a9
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b9182e6f-4c74-4120-9cf1-9a60aac5d6a9&sub=t19
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/24/fc110ab8-518e-3bd2-a8cc-a00adf566912.jpeg" group-title="VOD TRIAL", Horror-The Conjuring 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=935c7e79-a189-42a8-a8c0-77f51a45cdb8
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=935c7e79-a189-42a8-a8c0-77f51a45cdb8&sub=t11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/3097abf0-230e-3eee-8517-125c6291e8cf.jpeg" group-title="VOD TRIAL", Horror-The Conjuring: The Devil Made Me Do It
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13982,169 +13852,11 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1437ff69-a419-474a-9716-337f79bc5247
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1437ff69-a419-474a-9716-337f79bc5247&sub=t10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/c212712b-cdda-3758-b8f8-fbc5220517b1.jpeg" group-title="VOD TRIAL", Horror-1-The Curse of La Llorona
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=caacde84-a64c-4334-9001-087766dd890b
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=caacde84-a64c-4334-9001-087766dd890b&sub=t0
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/07/ff4f9212-c4e6-3dd7-ae8e-fa39cd9c742e.jpeg" group-title="VOD TRIAL", Horror-1-The Exorcist: Believer (2023)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8cbb095f-3a4d-47e0-8c0d-5b5e9d1b0aa7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8cbb095f-3a4d-47e0-8c0d-5b5e9d1b0aa7&sub=t3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/06a62e86-8550-3e65-93c5-288dc6d94804.jpeg" group-title="VOD TRIAL", Horror-The Haunting
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d667c476-1b8a-4d08-9ba2-dc39a0de3433
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d667c476-1b8a-4d08-9ba2-dc39a0de3433&sub=t3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/31/f8028be4-a8b8-38f7-ac50-2ba50b2fd750.jpeg" group-title="VOD TRIAL", Horror-1-The Last Voyage of the Demeter
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=13e1787b-1f8d-455d-aa8d-994e03758672
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=13e1787b-1f8d-455d-aa8d-994e03758672&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/09/20/c0627255-0936-3088-8b54-103cdcac0d15.jpeg" group-title="VOD TRIAL", Horror-1-The Nun (2018)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=782891ef-7f64-4014-841a-045dd307e2f7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=782891ef-7f64-4014-841a-045dd307e2f7&sub=t9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/20/b28a8de7-d73b-3ca0-8d05-a1f17e342956.jpeg" group-title="VOD TRIAL", Horror-1-The Nun II
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f388009d-e649-4fee-b6a5-1403426c8a63
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f388009d-e649-4fee-b6a5-1403426c8a63&sub=t14
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/15/c485a3b9-0366-337e-b8e9-3fad846edae1.jpeg" group-title="VOD TRIAL", Horror-1-The Rite
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c8548ae7-901c-49ea-b7d2-234f19f61cfb
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c8548ae7-901c-49ea-b7d2-234f19f61cfb&sub=t5
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/bf10f3e9-b783-3844-b188-26d94a0ce42b.jpeg" group-title="VOD TRIAL", Horror-The Uninvited
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5d7718da-2d39-4f28-a299-f8e81faa4a4d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5d7718da-2d39-4f28-a299-f8e81faa4a4d&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/8db7fd5f-eb83-3b73-982b-8ce5c4aba660.jpeg" group-title="VOD TRIAL", Horror-1-The Visitor
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8f38e2b7-79db-4ada-a2ce-5922fed42eba
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8f38e2b7-79db-4ada-a2ce-5922fed42eba&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/21/0782fb7e-ca04-37ce-812f-55a1da2fcf05.jpeg" group-title="VOD TRIAL", Horror-1-The Watchers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=98614feb-9188-4b90-8cfe-0cba8c7db332
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=98614feb-9188-4b90-8cfe-0cba8c7db332&sub=t22
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/28/587b331e-1ad4-343c-ac48-5a30dd9c2a8b.jpeg" group-title="VOD TRIAL", Horror-The Wolfman
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=37545c5f-0f3e-4d7d-8886-f623eca0a81f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=37545c5f-0f3e-4d7d-8886-f623eca0a81f&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/31ef9856-a173-3601-b2fa-f6f0730b1527.jpeg" group-title="VOD TRIAL", Horror-1-There is Something Wrong With The Children
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=16d29300-94e4-420d-a1bd-e24f2f098fa7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16d29300-94e4-420d-a1bd-e24f2f098fa7&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/589e89c8-eceb-3baf-95f2-17a7b51a577f.jpeg" group-title="VOD TRIAL", Horror-1-Torn Hearts
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4249dffb-9cbb-447f-925f-01c452f9c9da
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4249dffb-9cbb-447f-925f-01c452f9c9da&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/c16e851d-d51c-3dc0-a9c3-f828a236f321.jpeg" group-title="VOD TRIAL", Horror-1-Trap
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bae8a681-2943-4a89-bbdc-f0bd443c217d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bae8a681-2943-4a89-bbdc-f0bd443c217d&sub=t13
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/4b9309e3-2f05-3b81-8983-71f0764135a5.jpeg" group-title="VOD TRIAL", Horror-The Unborn
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=04b0ea54-760a-4ca5-aaad-7cb068a9f541
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=04b0ea54-760a-4ca5-aaad-7cb068a9f541&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f03ab1c0-ef3d-335e-80fc-80aa9fa1ab3c.jpeg" group-title="VOD TRIAL", Horror-1-Unhuman
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f742298b-f493-4fba-9647-897c8b40bdf2
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f742298b-f493-4fba-9647-897c8b40bdf2&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/f6c9c923-d115-3eea-ab7c-c796ea894bbb.jpeg" group-title="VOD TRIAL", Horror-1-Unseen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=570fccfb-2739-4810-bcb2-4ed12bae52e4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=570fccfb-2739-4810-bcb2-4ed12bae52e4&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/86065552-b06d-3e53-8e90-ed3af5266256.jpeg" group-title="VOD TRIAL", Horror-1-Vindicta
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b0e46362-b9fa-4a30-a293-7c2990b3bc2d&sub=t4
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/b1ed6d2f-3a60-38ba-b59e-3ea41e198ac7.jpeg" group-title="VOD TRIAL", Action-1-Joker
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d8eb74cb-58f5-4b5b-8c26-8b7ce4563daa&sub=t13
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/c6344dcc-6927-3288-83c0-ffc17a3d4b4d.jpeg" group-title="VOD TRIAL", Action-First Man
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f1b431b9-5f41-4f9a-9c9d-deaa117ba6d4&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/18/76479b5b-c3bc-3ee5-aea7-bc3a08c8bdfe.jpeg" group-title="VOD TRIAL", Action-Flight
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5533c2d3-e174-41d9-85c8-54f18d663959
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5533c2d3-e174-41d9-85c8-54f18d663959&sub=t3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/08/334c2a59-8ac7-3e85-8719-c4d56921b5f7.jpeg" group-title="VOD TRIAL", Action-2-The Painter
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=42ab0e0f-eb57-412f-9428-d8dde0481b48
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=42ab0e0f-eb57-412f-9428-d8dde0481b48&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/15/ad0c4e9a-ae99-3e40-a252-01c63c0bac9a.jpeg" group-title="VOD TRIAL", Action-2-River Wild
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e71a3bf6-d5c1-49e8-a0a6-9e2759c13cec&sub=t0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/23/6ddc7e61-910a-3409-92d1-81110547934d.jpeg" group-title="VOD TRIAL", Action-2-R.I.P.D. 2: Rise of the Damned
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3ce6cbe5-6f6a-4fa2-b47b-f1767ea961dc&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/04a2363a-6512-3cea-8311-4cc52ab88cd6.jpeg" group-title="VOD TRIAL", Action-Red Eye
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c36c4f3f-0faf-4a70-805f-326435a7f3bd&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/10d3cdaf-ba86-3c58-9d96-f941e19b84fc.jpeg" group-title="VOD TRIAL", Action-2-Oppenheimer
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=dd44def9-a33d-4c8d-8edc-a76e331f33e7&sub=t7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/569ca38f-c39b-3e22-b5c1-1c667bcf5df5.jpeg" group-title="VOD TRIAL", Action-Interstellar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5b100055-dd54-47b7-a965-f7e8a64d620d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5b100055-dd54-47b7-a965-f7e8a64d620d&sub=t11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/b2eb7cba-159b-3e8a-bc9c-0648a21b30e2.jpeg" group-title="VOD TRIAL", Kids-Despicable Me
 #KODIPROP:inputstream=inputstream.adaptive
@@ -14152,83 +13864,12 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=a6bd1572-0fb1-435e-8ea2-8d37c6e1f356
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=a6bd1572-0fb1-435e-8ea2-8d37c6e1f356&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/29/34b561f4-b438-31a8-9d38-d4760bb3ee6c.jpeg" group-title="VOD TRIAL", Kids-Despicable Me 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/251f1e00-6ccd-3c5c-a356-f62074458f63.jpeg" group-title="VOD TRIAL", Kids-Hugo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3&sub=t5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/911d35f6-4d27-3e82-831e-24a66a34d3d0.jpeg" group-title="VOD TRIAL", Kids-IF
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d385a5d9-caa6-437b-935e-77e3a060da21
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d385a5d9-caa6-437b-935e-77e3a060da21&sub=t3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/24/96ad829a-0fed-3acc-8429-2533a244268f.jpeg" group-title="VOD TRIAL", Kids-Mr. Bean is Holiday
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b35c844a-77f4-4373-8b2a-03e3d2a9e3bb
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b35c844a-77f4-4373-8b2a-03e3d2a9e3bb&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/b5bb31fd-c41b-33db-bcc5-6f5167074fbf.jpeg" group-title="VOD TRIAL", Kids-Detective Pikachu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fc18131f-0cf8-4a04-8da1-e4f0d6804c7d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fc18131f-0cf8-4a04-8da1-e4f0d6804c7d&sub=t19
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/28/5874bd0d-99db-316a-8d5c-91d32ea82ced.jpeg" group-title="VOD TRIAL", Kids-Tom & Jerry
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f84c6558-15a3-4237-8608-95106d91bb4d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f84c6558-15a3-4237-8608-95106d91bb4d&sub=t43
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/26/a658f8d6-068b-3a37-8007-9efa8cbdf200.jpeg" group-title="VOD TRIAL", Kids-Migration
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c9807a3e-2fab-42dd-ae58-0817825754c2
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c9807a3e-2fab-42dd-ae58-0817825754c2&sub=t6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/23/dd74c225-829d-3036-9fb6-41c5a573a60b.jpeg" group-title="VOD TRIAL", Kids-Despicable Me 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb&sub=t4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/9383c6b2-caf1-3ee2-a2e2-80d0c74f3849.jpeg" group-title="VOD TRIAL", Kids-Kung Fu Panda
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2435805a-7f45-4326-8a73-e577f9cc94a7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2435805a-7f45-4326-8a73-e577f9cc94a7&sub=t2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/f5d22898-3c4d-3e21-a644-3a687bf5cb3e.jpeg" group-title="VOD TRIAL", Kids-Kung Fu Panda 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3925f141-9e29-4952-b6a7-2ff4f57cf5f4
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3925f141-9e29-4952-b6a7-2ff4f57cf5f4&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/24/8c25e3a7-28ce-353b-bb7a-6d56fd39544a.jpeg" group-title="VOD TRIAL", Kids-Kung Fu Panda 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1783ed5c-a800-4ae1-bbf0-df87efc6ee90
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1783ed5c-a800-4ae1-bbf0-df87efc6ee90&sub=t6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="VOD TRIAL", Kids-Wonka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/8ff9d556-078c-3ff2-9c4c-b0cd12f5d81b.jpeg" group-title="VOD TRIAL", Kids-Bee Movie
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5cf1039f-a16b-495b-a28d-f844126b4493
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5cf1039f-a16b-495b-a28d-f844126b4493&sub=t2
 
 ========================================================
 VOD KOREA |OFF
