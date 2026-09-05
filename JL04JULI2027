@@ -8988,8 +8988,23 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool Hub Premier 1
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool Nova Sports EPL
-http://nexusconnects.org:80/play/live.php?mac=00:1B:79:42:10:51&stream=1879&extension=ts&play_token=XNXCpIftYx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool BeIN Sports TR 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool SKY SPORTS PREMIER LEAGUE HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312048.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool SKY SPORTS PREMIER LEAGUE SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312239.m3u8
+
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENTS.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs LiverpoolSKY SPORTS MAIN EVENTS HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312049.m3u8
+
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENT.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENT HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs LiverpoolSKY SPORTS MAIN EVENT HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312176.m3u8
+
+
+
 
 
 
@@ -9029,6 +9044,35 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&ex
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐StarSports Selet 2
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League (Server 1)
+https://flat-butterfly-3ef0.yusoffrohaidee1.workers.dev/?url=https://183.bozztv.com/giatv/giatv-fake/astropremierleague/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League (Server 2)
+https://183.bozztv.com/giatv/giatv-fake/astropremierleague/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 2 (Server 1)
+https://flat-butterfly-3ef0.yusoffrohaidee1.workers.dev/?url=https://183.bozztv.com/giatv/giatv-fake/astropremierleague2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 2 (Server 2)
+https://183.bozztv.com/giatv/giatv-fake/astropremierleague2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-name="Astro Premier League 3" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 3 (Server 1)
+https://flat-butterfly-3ef0.yusoffrohaidee1.workers.dev/?url=https://183.bozztv.com/giatv/giatv-fake/astropremierleague3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-name="Astro Premier League 3" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 3 (Server 2)
+https://183.bozztv.com/giatv/giatv-fake/astropremierleague3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-name="Astro Premier League 4" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 4 (Server 1)
+https://flat-butterfly-3ef0.yusoffrohaidee1.workers.dev/?url=https://183.bozztv.com/giatv/giatv-fake/astropremierleague4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-name="Astro Premier League 4" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Astro Premier League 4 (Server 2)
+https://183.bozztv.com/giatv/giatv-fake/astropremierleague4/chunks.m3u8
+===============================================
 
 
 
