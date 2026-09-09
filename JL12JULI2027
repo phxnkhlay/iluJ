@@ -4287,7 +4287,16 @@ LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-
+#EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO",ID: Cinemax (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
+#EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO",ID: HBO (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302248
+#EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO",ID: HBO Family (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
+#EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO",ID: HBO HITS (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302250
+#EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO",ID: HBO Signature (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302251
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO", HBO ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
@@ -4304,22 +4313,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO", Cinemax ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO",HBO (2️⃣)
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
-http://013tv.com:8080/F33848/cbd9779b/306484
-http://013tv.com:8080/F33848/cbd9779b/197972
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO",HBO HITS (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/306486
-http://013tv.com:8080/F33848/cbd9779b/196480
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO",HBO SIGNATURE (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/306483
-http://ikitv.sqn.at:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO",HBO FAMILY (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/197972
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO",CINEMAX (2️⃣)
-http://013tv.com:8080/F33848/cbd9779b/197964
+
 ====
 
 #
@@ -4833,8 +4827,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-#EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="FILM" tvg-logo="https://i.imgur.com/RpNx07x.png",🆕ROCK Action (167)
-https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4857,7 +4849,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",HBO (NON SUB)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-
+#EXTINF:-1 tvg-id="ID: Cinemax" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM",ID: Cinemax (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
+#EXTINF:-1 tvg-id="ID: HBO" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM",ID: HBO (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302248
+#EXTINF:-1 tvg-id="ID: HBO Family" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="FILM",ID: HBO Family (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
+#EXTINF:-1 tvg-id="ID: HBO HITS" tvg-name="ID: HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="FILM",ID: HBO HITS (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302250
+#EXTINF:-1 tvg-id="ID: HBO Signature" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="FILM",ID: HBO Signature (0️⃣)
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302251
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="FILM", HBO ID (1️⃣✅)
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
@@ -8696,11 +8697,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 ==========TNT
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 1 HD (🏆AIOS)
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 HD tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 1 HD (🏆AIOS)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174236.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HD" tvg-logo="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 2 HD (🏆AIOS)
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HD" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 2 HD (🏆AIOS)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174237.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 HD" tvg-logo="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 3 HD (🏆AIOS)
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 HD" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS";BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",⭐ TNT SPORTS 3 HD (🏆AIOS)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174238.m3u8
 
 
@@ -14688,7 +14689,7 @@ as
 
 
 
----
+----
 
 
 
