@@ -3976,25 +3976,10 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 
 ===EDT
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v1)
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV - Server 2" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
-https://tvratu.my.id/vid/index.mpd?id=204
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name=""  tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v0)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 
 ---------
@@ -4023,6 +4008,15 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 VS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV - Server 1" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 VS 2)
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
 GTV COVER https://i.imgur.com/oZl4oNH.jpeg
@@ -9337,6 +9331,22 @@ https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 5
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 1 (Andro)
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 2 (Andro)
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 3 (Andro)
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 4(Andro)
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐BeIN Sports TR 5 (Andro)
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐SKY SPORT PREMIER LEAGUE HD (RUTUBE)
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
