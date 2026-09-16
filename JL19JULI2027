@@ -3979,11 +3979,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 ------------------- visio TRANS TV COVER https://i.imgur.com/lKH1wII.jpeg
 -------------------- TRANS 7 COVER https://i.imgur.com/WSnhDLn.jpeg
 
-#EXTINF:-1 tvg-id="Id Trans 7" tvg-name="Id Trans 7 - Server 1" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" ch-number="3" group-title="NASIONAL",🆕 TRANS 7 (🚀9726)
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/30231
-
-
-
 vision
 
 ===========
@@ -7863,7 +7858,10 @@ LEAGUE CUP
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vIE9nWJ.jpeg",BOLA | LEAGUE CUP 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Ipswich Town vs Arsenal BEIN SPORT 3 AU 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Coventry City vs Aston Villa⭐BEIN SPORTS 6 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Everton vs Wolverhampton Wanderers BEIN SPORT 3 AU 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7871,13 +7869,21 @@ LEAGUE CUP
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:0  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Everton vs Wolverhampton Wanderers Arena Sport Premium 5(💫14926)
+https://ott.djdoolky76.io/api/streams/152/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
-#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Liverpool vs Tottenham Hotspur BEIN SPORT 2 AU
+
+
+#EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Manchester United vs Brighton & Hove Albion Hotspur BEIN SPORT 2 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1  group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Manchester United vs Brighton & Hove Albion Hotspur(MUTV ✅)
+https://get.perfecttv.net/mutv.mpd
+
 
 #EXTINF:0 group-title="BOLA | LEAGUE CUP " tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg",⭐Liverpool vs Tottenham Hotspur Arena Sport 1 (Croatia) (💫14926)
 https://ott.djdoolky76.io/api/streams/296/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
