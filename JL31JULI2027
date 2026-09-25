@@ -3674,6 +3674,11 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ORDER 📲 Wa 082219213334",📲 Wa 082219213334
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="✅ORDER 📲 Wa 082219213334" event-duration="4",📌TES WA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.whatsapp.com/
+#EXTVLCOPT:http-origin=https:/www.whatsapp.com
+https://wa.wizard.id/d8c592
 
 
 
