@@ -3519,81 +3519,219 @@ halaman tidak tersedia
 
 
 =======================================================================================
-(🚀24926)(🚀24926)(🚀24926) | NASIONAL VERSI HARI INI |  (🚀24926)(🚀24926)(🚀24926)  
+(🚀24926)(🚀24926)(🚀24926) | NASIONAL VERSI HARI INI |  (🚀24926)(🚀24926)(🚀24926)  ➡️🎬⬅️
 =======================================================================================
-#EXTINF:-1 group-title="NASIONAL;ANAK" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",🆕VTV (🚀24926)  
+#EXTINF:-1 group-title="NASIONAL;ANAK" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",🎬VTV⬅️
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL",🆕TV ONE (🚀24926)  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=12
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="FILM;GAYA HIDUP",🎬Warner TV (🇮🇩)⬅️
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",🆕ANTV (🚀24926)  
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/4KdFidK.jpeg" group-title="ANAK",🎬Cartoon Network (🇮🇩)⬅️
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕TRANS 7 (🚀24926)  
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="DUNIA | KOREA;FILM",🎬tvN Movies(🇮🇩)⬅️
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",🆕TRANS TV (🚀24926)  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NASIONAL",🎬MDTV⬅️
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg"",🆕RCTI (🚀24926)  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" tvg-logo="" group-title="BERITA",🎬TV5Monde⬅️
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV"  tvg-logo="" group-title="BERITA;DUNIA | KOREA",🎬Arirang TV⬅️
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🆕MNCTV (🚀24926)  
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTINF:-1 tvg-id="Knowledge+ HD" tvg-name="Knowledge+ HD" tvg-logo="" group-title="PENGETAHUAN",🎬Knowledge+⬅️
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🆕GTV (🚀24926)  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTINF:-1 tvg-id="MOJI HD" tvg-name="MOJI HD" tvg-logo="" group-title="NASIONAL",🎬MOJI HD⬅️
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://i.imgur.com/NTYY97h.jpeg"" group-title="NASIONAL",🆕INEWS (🚀24926)  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+#EXTINF:-1 tvg-id="Bioskop Indonesia HD" tvg-name="Bioskop Indonesia HD" tvg-logo="" group-title="NASIONAL",🎬Bioskop Indonesia⬅️
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🆕SINDONEWS (🚀24926)  
+#EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV HD" tvg-logo="" group-title="NASIONAL;ANAK",🎬RTV HD⬅️
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="BERITA",🎬France 24
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK World Premium" tvg-logo="" group-title="BERITA;DUNIA | JAPAN",🎬NHK World Premium⬅️
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",🎬AXN (🇮🇩)⬅️
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/DpxDrki.png" group-title="GAYA HIDUP",🎬AXN (🇮🇩)⬅️
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🎬RCTI⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🎬MNC TV⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🎬GTV⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" group-title="NASIONAL",🎬TransTV⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🎬Trans7⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🎬SCTV⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",🎬ANTV HD⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/AE6rBhB.jpeg" group-title="NASIONAL;BERITA",🎬Kompas TV ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/ydZkp17.jpeg" group-title="NASIONAL;BERITA",🎬Metro TV ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL;BERITA",🎬TVOne⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="NASIONAL;BERITA",🎬CNN Indonesia⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="" group-title="NASIONAL;BERITA",🎬Berita Satu⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd
+
+#EXTINF:-1 tvg-id="ABCAustralia.au@SD" group-title="BERITA" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg",🎬ABC Australia⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd
+
+#EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="GAYA HIDUP" tvg-logo="",🎬Dunia Lain ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="nsert.id@SD"  group-title="GAYA HIDUP" tvg-logo="",🎬Insert⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/IW5zZXJ0/manifest.mpd
+
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-logo="https://i.imgur.com/ja7Co8v.png" group-title="FILM",🎬Thriil 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VGhyaWxs/manifest.mpd
+---
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM;DUNIA | CHINA",🎬Celestial Movies  🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 group-title="FILM" tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/UmbvKYp.jpeg",🎬Zee Bioskop 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="CinemaWorld.my@SD" group-title="FILM" tvg-logo="",🎬CinemaWorld  🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1hIFdvcmxk/manifest.mpd
+
+===HBO
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🎬HBO 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="402" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🎬HBO Hits 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="401" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🎬HBO Signature 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="403" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🎬HBO Family 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="405" tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM",🎬Cinemax 🇮🇩 ⬅️
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
 
 
 
@@ -3601,50 +3739,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 ============================
 SEMENTARA TAB-SEMENTARA TAB
 ============================
-#EXTINF:-1 tvg-id="302252" tvg-name="HGTV HD" tvg-logo="" group-title="PENGETAHUAN",HGTV HD (SUB INDO) (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302252
 
-#EXTINF:-1 tvg-id="302309" tvg-name="Thrill HD" tvg-logo="" group-title="FILM;GAYA HIDUP",Thrill HD (SUB INDO) (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302309
-
-#EXTINF:-1 tvg-id="302207" tvg-name="Asian FOOD Network HD" tvg-logo="" group-title="GAYA HIDUP",Asian FOOD Network HD (SUB INDO) (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302207
-
-#EXTINF:-1 tvg-id="302229" tvg-name="CNBC Indonesia HD" tvg-logo="" group-title="NASIONAL;BERITA",CNBC Indonesia HD (SUB INDO) (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302229
-#EXTINF:-1 tvg-id="302230" tvg-name="CNN Indonesia HD" tvg-logo="" group-title="NASIONAL;BERITA",CNN Indonesia HD (SUB INDO) (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302230
-
-#EXTINF:-1 tvg-id="302206" tvg-name="ANTV HD" tvg-logo="" group-title="NASIONAL",ANTV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302206
-
-#EXTINF:-1 tvg-id="302216" tvg-name="Berita SATU HD" tvg-logo="" group-title="NASIONAL",Berita SATU HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302216
-
-#EXTINF:-1 tvg-id="302225" tvg-name="Channel NEWS ASIA HD" tvg-logo="" group-title="NASIONAL;BERITA",Channel NEWS ASIA HD  (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302225
-
-#EXTINF:-1 tvg-id="302271" tvg-name="Kompas TV HD" tvg-logo="" group-title="NASIONAL;BERITA",Kompas TV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302271
-
-#EXTINF:-1 tvg-id="302273" tvg-name="Metro TV HD" tvg-logo="" group-title="NASIONAL",Metro TV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302273
-#EXTINF:-1 tvg-id="302278" tvg-name="MNC TV HD" tvg-logo="" group-title="NASIONAL",MNC TV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302278
-#EXTINF:-1 tvg-id="302279" tvg-name="MOJI HD" tvg-logo="" group-title="NASIONAL",MOJI HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302279
-#EXTINF:-1 tvg-id="302280" tvg-name="MQTV HD" tvg-logo="" group-title="NASIONAL",MQTV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302280
-#EXTINF:-1 tvg-id="302288" tvg-name="NET HD" tvg-logo="" group-title="NASIONAL",NET HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302288
-#EXTINF:-1 tvg-id="302297" tvg-name="RCTI HD" tvg-logo="" group-title="NASIONAL",RCTI HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302297
-#EXTINF:-1 tvg-id="302301" tvg-name="SCTV HD" tvg-logo="" group-title="NASIONAL",SCTV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302301
-#EXTINF:-1 tvg-id="302311" tvg-name="Trans 7 HD" tvg-logo="" group-title="NASIONAL",Trans 7 HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302311
-#EXTINF:-1 tvg-id="302312" tvg-name="Trans TV HD" tvg-logo="" group-title="NASIONAL",Trans TV HD (SEMENTARA)
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302312
 
 ============================
 SEMENTARA TAB-SEMENTARA TAB
