@@ -5723,11 +5723,16 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | FIFA ASEAN CUP 2026
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS SINGAPURA
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | FIFA ASEAN CUP 2026" event-duration="4",📌INDONESIA VS MALAYSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=EpKSy3ad2qs
+https://www.youtube.com/watch?v=NfFHec8ETxQ
+
+#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg",🆕Indonesia vs Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5737,10 +5742,16 @@ https://www.youtube.com/watch?v=EpKSy3ad2qs
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕Channel 5  (🚀25926)
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕 Vietnam vs Filipina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/timnas2.m3u8
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",Indosiar2
+http://sansatplus.net:88/02000406070996/1899319467/694349
+
+#EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg"group-title="EVENT | FIFA ASEAN CUP 2026",T Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TSport.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | FIFA ASEAN CUP 2026",🆕MOJI SPORT (VD)
 https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
