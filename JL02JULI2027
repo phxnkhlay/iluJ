@@ -3572,8 +3572,7 @@ https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️ 2
 #https://transdetik.stbbh43.workers.dev/cnbc.m3u8
@@ -3824,11 +3823,30 @@ BG BARU https://i.imgur.com/3GVkoob.gif
 
 VTV COVER https://i.imgur.com/oZl4oNH.jpeg
 =================== TEST BARU
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS TV (🚀10926)
-http://filex.me:8080/live/3114654477/5787654467/302312.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS 7 (🚀10926)
-http://filex.me:8080/live/3114654477/5787654467/302311.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS TV (🚀41026 v)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS 7 (🚀41026 v)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="TransTV-6" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS TV (🚀16926)
 #EXTVLCOPT:http-origin=https://20.detik.com/
@@ -3864,6 +3882,22 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 ###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=134
 #EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🆕IDX (247)
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=134
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🆕IDX (🚀41026 v)
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX"tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🆕IDX (🚀41026 m)
+https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
+
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -4052,6 +4086,19 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
 https://tvratu.my.id/vid/index.mpd?id=204
 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV  (🚀8826 v2 M)
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV  (🚀8826 v3 v)
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
+
 
 ---------
 INEWS COVER https://i.imgur.com/NTYY97h.jpeg
@@ -4072,21 +4119,18 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 V)
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 V1)
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 VS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
-
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV - Server 1" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 VS 2)
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=010
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 V2)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
@@ -4114,10 +4158,17 @@ vision
 ===========
 ===========
 
-#EXTINF:-1 tvg-id="MentariTV.id@SD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/xtbagd5.jpeg",🆕MENTARI TV (🚀24926)
-https://vidsemar.pages.dev/terraluna2/8237.mpd
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/xtbagd5.jpeg",🆕MENTARI TV (🚀24926 v1)
+https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/xtbagd5.jpeg",🆕MENTARI TV (🚀24926 v2)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
 
 
@@ -4136,38 +4187,27 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 
 -----------
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
-EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🆕BTV (247)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🆕BTV  1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL" server="BTV" event-duration="4",🆕BTV (048)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🆕BTV  2
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
 
 ===
 
 CNBC INDONESIA https://i.imgur.com/yxjrNLR.jpeg
 CNN INDONESIA https://i.imgur.com/yxjrNLR.jpeg
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🆕CNN Indonesia (🚀24926)
-https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🆕CNBC Indonesia (🚀24926)
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
-
 
 
 ========10/2/2025
@@ -4473,6 +4513,16 @@ cartonitoo cover https://i.imgur.com/bCTSmje.jpeg
 #EXTINF:-1 tvg-id="MentariTV.id@SD" #EXTINF:-1 tvg-id="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926)
 https://vidsemar.pages.dev/terraluna2/8237.mpd
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v1)
+https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v2)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
 
 
@@ -7470,40 +7520,60 @@ AGAMA | ini edit
 
 
 =======================================
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
-#EXTINF:-1 tvg-id="auto.al.quran.al.kareem" group-title="AGAMA " tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕Al Quran Al Kareem (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=153
+#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem"  tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕Al Quran Al Kareem
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
-#EXTINF:-1 tvg-id="auto.muslim.tv" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕Muslim TV (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=137
+#EXTINF:-1 tvg-id="Muslim.TV.id" tvg-name="Muslim TV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕Muslim TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
-#EXTINF:-1 tvg-id="auto.tvmu" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕TVMu (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=030
+#EXTINF:-1 tvg-id="Muhammadiyah.TV.id" tvg-name="Muhammadiyah TV.id" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕TVMu
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
-#EXTINF:-1 tvg-id="auto.dmi.tv" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕DMI TV (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=029
+#EXTINF:-1 tvg-id="DMITV.id" tvg-name="DMI TV"tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",🆕DMI TV 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
-#EXTINF:-1 tvg-id="LIFE.id" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",🆕LIFE (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=138
+#EXTINF:-1 tvg-id="LIFE.id" tvg-name="LIFE" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",🆕LIFE 
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+
+
+
+====================================
+
 
 
 ===============
@@ -7541,36 +7611,21 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 
 =====KRISTEN==
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
-#EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/tbnasia.jpg" group-title="AGAMA",TBN ASIA (KRISTEN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="" group-title="AGAMA",TBN ASIA (KRISTEN)
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="GMS.id" tvg-name="GMS" tvg-logo="https://mimipipi22.github.io/logo/religion/gmstv.jpg" group-title="AGAMA",GMS (KRISTEN)
-https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
+(KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=154
+#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="" group-title="AGAMA",EWTN (KRISTEN)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Kairos" tvg-name="Kairos" tvg-logo="https://mimipipi22.github.io/logo/religion/kairos.jpg" group-title="AGAMA",KAIROS (KRISTEN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
-#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/ewtn.jpg" group-title="AGAMA",EWTN (KRISTEN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Reformed 21.id" tvg-name="Reformed 21.id" tvg-logo="https://mimipipi22.github.io/logo/religion/reformed21.jpg" group-title="AGAMA",REFORMED 21 (KRISTEN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 
 =============
 NEW 4/5/2025
