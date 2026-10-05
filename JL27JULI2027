@@ -3567,11 +3567,17 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 #https://transdetik.stbbh43.workers.dev/cnn.m3u8
 https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
+#EXTINF:-1 tvg-id="CNNIndonesia.idtvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL;BERITA",🎬CNN Indonesia (51026)⬅️
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia (51026)⬅️ 
+#https://transdetik.stbbh43.workers.dev/cnbc.m3u8
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🎬CNBC Indonesia ⬅️ 2
