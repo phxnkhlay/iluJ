@@ -5663,6 +5663,18 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ekkkkAA.m3u8
 
+#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (GAVANG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gavang33.live
+https://live2.zktsva.app/live/294335.m3u8
+
+
+
+#EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (COLATV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live05.meung.app/live/07428422_tsc.m3u8
+https://live2.zktsva.app/live/306290.m3u8
+
 #EXTINF:-1 group-title="EVENT | FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
