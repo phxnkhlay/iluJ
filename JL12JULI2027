@@ -4409,6 +4409,21 @@ LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
 
 
 =================================================================
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🍿 HBOᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🍿 HBO Hitsᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🍿 HBO Signatureᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🍿 HBO Familyᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO;FILM",🍿 Cinemaxᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
