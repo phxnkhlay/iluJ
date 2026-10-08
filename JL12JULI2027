@@ -5635,30 +5635,33 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/tthpegS.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌BURIRAM FC VS BORNEO FC
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=j1nFeSoqYTo
+https://www.youtube.com/watch?v=uySS77Zk0tA
 
-#EXTINF:-1 tvg-id="kltra_20922c7c-72c5-4f63-af9f-5699937" tvg-name="[ASEAN Club Championship] Buriram United FC vs Borneo FC - Server 1 (HD J [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/96da1333313b6bb62b04bf2bbf3e5d8e.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌 Buriram United FC vs Borneo FC - Server 1 (HD J [IOS]) • LIVE 19:00
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC SOCCER_CHANNEL (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 1 (HD J [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 1 (HD J [IOS]) • LIVE 18:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live2.dyrur1.com/live/72597048_1b9125b1020157a63cc559a18790a23b_1080p.m3u8?auth_key=1791388297-0-0-a90137b170b771226a80f25ece4c1362
-#EXTINF:-1 tvg-id="kltra_20922c7c-72c5-4f63-af9f-5699937" tvg-name="[ASEAN Club Championship] Buriram United FC vs Borneo FC - Server 2 (SD V [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/96da1333313b6bb62b04bf2bbf3e5d8e.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌Buriram United FC vs Borneo FC - Server 2 (SD V [IOS]) • LIVE 19:00
+https://live.dyrur1.com/live/72597088_96756003774adad49b61e195228f0f26_1080p.m3u8?auth_key=1791473009-0-0-484b424f8dafbdc4b92991e1d6d73fee
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 2 (SD V [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 2 (SD V [IOS]) • LIVE 18:30
 #EXTVLCOPT:http-referrer=https://player.online909.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://player.online909.com/"}
-https://live.vivo155.com/live/sd-1-4561874.m3u8?txSecret=8933b838b4ac3a5e813774d113e2ebf1&txTime=6AC64612
-#EXTINF:-1 tvg-id="kltra_1a3ecb3c-980e-4e1a-ac3b-5703783" tvg-name="[ASEAN Club Championship] Ratchaburi FC vs Ho Chi Minh City FC - Server 1 (HD J [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/867aff0e2c72ba31d42ba18febf152f.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌 Ratchaburi FC vs Ho Chi Minh City FC - Server 1 (HD J [IOS]) • LIVE 19:00
+https://live.vivo155.com/live/sd-1-4561885.m3u8?txSecret=474bd0fbff8f34337e0b4332a05d8c66&txTime=6AC79078
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 3 (SD W [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 3 (SD W [IOS]) • LIVE 18:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_1080p.m3u8?auth_key=1791388297-0-0-afa69aa070fbea7f7095bfc2699c2ae6
-#EXTINF:-1 tvg-id="kltra_1a3ecb3c-980e-4e1a-ac3b-5703783" tvg-name="[ASEAN Club Championship] Ratchaburi FC vs Ho Chi Minh City FC - Server 2 (SD V [IOS]) • LIVE 19:00" tvg-logo="https://s.q5qo.com/data/867aff0e2c72ba31d42ba18febf152f.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌 Ratchaburi FC vs Ho Chi Minh City FC - Server 2 (SD V [IOS]) • LIVE 19:00
-#EXTVLCOPT:http-referrer=https://player.online909.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://player.online909.com/"}
-https://live.vivo155.com/live/sd-1-4638919.m3u8?txSecret=bd5250babb4fb479f0d2a79dd213007f&txTime=6AC6489C
+https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzT881qnqdL_autosp.m3u8?txSecret=583daf7075f727aa3509d765e3c13f84&txTime=6AC8D038
+
 
 #EXTINF:-1 tvg-id="SPORTSTARS" tvg-name="SPORTSTARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/SPORTStars.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -5685,78 +5688,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=205&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",📌INDONESIA VS THAILAND (FINAL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg", ⚽ INDONESIA vs THAILAND (ML)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (FW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/ekkkkAA.m3u8
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (GAVANG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gavang33.live
-https://live2.zktsva.app/live/294335.m3u8
-
-
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽ INDONESIA vs THAILAND (COLATV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422_tsc.m3u8
-https://live2.zktsva.app/live/306290.m3u8
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-EXTINF:-1 group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg",⚽MALAYSIA VS VIETNAM (FINAL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",🆕Channel 5  (🚀25926)
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
-
-
-EXTINF:-1tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",  FIFA ASEAN CUP 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",  FIFA ASEAN CUP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP", Malaysia vs Singapura 🆕Channel 5  (🚀25926)
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 
 EXTINF:-1 tvg-name="EpKSy3ad2qs" tvg-logo="https://i.ibb.co.com/RGZj2NSX/malay.jpg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",Indosiar
