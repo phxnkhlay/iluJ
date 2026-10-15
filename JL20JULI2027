@@ -3841,12 +3841,45 @@ halaman tidak tersedia
 
 
 ============================================================================================
-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026
 ============================================================================================
 TESTED 15/10/26 🎃👻🍬🦇💀🧡 | 🎃👻
+
+--> HBO
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/xvV7KRR.png", 🥤 CINEMAX (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png", 🥤 HBO (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png", 🥤 HBO HITS (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png", 🥤 HBO FAMILY (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png", 🥤 HBO SIGNATURE (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 --> FILM
 #EXTINF:-1 xui-id="31" tvg-id="" tvg-name="KIX" group-title="FILM" tvg-logo="https://i.imgur.com/ffr53aW.jpeg",KIX (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzcHfZYOcxg3ryOOa-44rBU
+
+#EXTINF:-1 xui-id="9512" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="ANAK",Disney Channel (🎃👻 ENGLISH)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4hXOd_Wx2_velG0zFEpZ-OT0Yp4wxD7HRY7o3QhtHeyc
+
+
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM;GAYA HIDUP",Hits (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="THRILL" tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM",Thrill (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
+
 
 #EXTINF:-1 xui-id="30" tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w8a6hJLZt4-7CsKBp_nrhKs
