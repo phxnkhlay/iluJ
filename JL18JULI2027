@@ -3845,6 +3845,14 @@ FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB 
 ============================================================================================
 TESTED 15/10/26 🎃👻🍬🦇💀🧡 | 🎃👻
 
+===KIDS
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon Pluto TV (USA)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+
 --> HBO
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/xvV7KRR.png", 🥤 CINEMAX (🎃👻)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
@@ -3892,28 +3900,37 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
 
 #EXTINF:-1 xui-id="8736" tvg-id="HCLCHD" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",History (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_kCBPFtSV3uh_ARJwYO4Qw
+
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="" group-title="FILM",Rock Ent.(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4kliX4GwylQPjvzwFj15o54
+
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="IMC" tvg-logo="" group-title="FILM",IMC(SPM)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w1jLpYLZCy9HUg3y39KmHVE
+
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="FLIK" tvg-logo="" group-title="FILM",Flik(SPM)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzogxdTXTKM0qSiXXZHpVR8
+
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="K PLUS" tvg-logo="" group-title="FILM",Kplus(SPM)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
+
+#EXTINF:-1 xui-id="16624" tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="FILM",Studio Universal(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4keQR2XreDCp5CH0TluEUkszOSJb4IoADwB8tFw3k1cA
+
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="GALAXY" tvg-logo="" group-title="FILM",Galaxy(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
+
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="" group-title="FILM",Galaxy Premium(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
+
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="THRILL" tvg-logo="" group-title="FILM",Thrill(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
+
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo=" group-title="FILM",Hits(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="" group-title="FILM",Hits Movies(SPM)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 ================
-#EXTINF:-1 tvg-id="RCTI" group-title="NASIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (🎃👻)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792023927-d017084386ded4ab55fe6c03ba356502-0-02f62108a229063b707ce74a91aa9e4f
-
-#EXTINF:-1 tvg-id="MNCTV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg",MNCTV (🎃👻)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792023927-682dc94dce0a8f75a6bfd809fdf24772-0-f9d4bfcd2bdbc715fd99e15b2bffd151
-
-#EXTINF:-1 tvg-id="GTV" group-title="NASIONAL" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",GTV (🎃👻)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792023928-497a2109e15be7a65d013ddb4e01e312-0-13b4536668aa631941d502a1473c1734
-
-#EXTINF:-1 tvg-id="iNews" group-title="NASIONAL" tvg-logo="https://i.imgur.com/NTYY97h.jpeg",iNews (🎃👻)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792023928-fbbb13fd145259ff7f5ffe159e1bdcb2-0-2efe6ca9ec52cc8f3e76939c3e2da7e0
-
-
 
 ================
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
@@ -13129,6 +13146,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;BOLA | LALIGA;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LIGUE 1", Arena Sport 1 (Croatia) (💫14926)
 
 
+====SETANTA SPORTS
+
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LIGA INGGRIS;BOLA | LALIGA;BOLA | SERIE A;BOLA | BUNDESLIGA;BOLA | LIGUE1;BOLA | UEFA CHAMPIONS LEAGUE",Setanta Sports 1 Eurasia (1080p)
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LIGA INGGRIS;BOLA | LALIGA;BOLA | SERIE A;BOLA | BUNDESLIGA;BOLA | LIGUE1;BOLA | UEFA CHAMPIONS LEAGUE",Setanta Sports 2 Eurasia (1080p)
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports.uk" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | LIGA INGGRIS;BOLA | LALIGA;BOLA | SERIE A;BOLA | BUNDESLIGA;BOLA | LIGUE1;BOLA | UEFA CHAMPIONS LEAGUE",Setanta Sports HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
