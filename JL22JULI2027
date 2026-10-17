@@ -3843,6 +3843,25 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
 http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
+================
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="ANAK" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg",Nickelodeon HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="ANAK" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg",Nick Jr. Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="556" tvg-name="Cartoon Network" group-title="ANAK" tvg-logo="https://i.imgur.com/4KdFidK.jpeg",Cartoon Network HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+
+
+=================
 
 #EXTINF:-1 tvg-id="65" tvg-logo="" group-title="ANAK",Animax (🍬SUBJECT TES)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3850,6 +3869,12 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" tvg-logo="" group-title="ANAK",Animax HD (🍬SUBJECT TES 2)
+https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
+
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="ANIMAX" tvg-logo="" group-title="ANAK" ,Animax (🍬SUBJECT TES 3)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oGOYJ4VH4AfQGdGS2EXGFE
 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="PENGETAHUAN" group-logo=https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV US HD (🍬SUBJECT TES)
