@@ -3994,37 +3994,9 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 ================
 
 ================
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/26
 
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NATIONAL",MNCTV (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/22
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NATIONAL",GTV (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/9
-
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NATIONAL",SCTV (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/30
-
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" group-title="NATIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg",Indosiar (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" group-title="NATIONAL" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg",ANTV (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/1
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NATIONAL",CNN Indonesia (LC👻)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/5
-
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/YtOBEpp.jpeg" group-title="NATIONAL",CNBC Indonesia (LC👻)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/4
-
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NATIONAL",Mentari TV (LC👻)
-https://iptv.lancartech.co.id:443/Sudika@1/78345252/20
-
-#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NATIONAL",MDTV (LC👻)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/19
 
 
 ===================
@@ -11356,6 +11328,25 @@ START | BRI LIGA 1
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
 
+#EXTINF:-1 tvg-id="event3-7389928" tvg-name="[S1] [Indonesia Super League] Persib Bandung vs Persik Kediri" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",[S1] [Indonesia Super League] Persib Bandung vs Persik Kediri
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614380.m3u8?txSecret=a9a2bb4c98d16afc0cee229a2f78f4c0&txTime=6AD4D1B0|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-7389928" tvg-name="[S2] [Indonesia Super League] Persib Bandung vs Persik Kediri" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",[S2] [Indonesia Super League] Persib Bandung vs Persik Kediri
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614380.m3u8?txSecret=4f5af89ec0361b33caab25c5b154ac3c&txTime=6AD4D0F8|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-7389928" tvg-name="[S3] [Indonesia Super League] Persib Bandung vs Persik Kediri" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",[S3] [Indonesia Super League] Persib Bandung vs Persik Kediri
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614380.m3u8?txSecret=f5b94f5bb8ac894023c49c1b3deb947e&txTime=6AD4CF90|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+
 #EXTINF:-1 tvg-id="kltra_41c0d1df-9aab-4baf-b807-98f7250a5b7f" tvg-name="[S1] [UPCOMING] [Indonesia Super League] Persib vs Persik Kediri - Server 1 (Kltra - SD [IOS]) • 19:00 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/RpZprl39y1opAvgF7NhPVg_96x96.png" group-title="BOLA | BRI LIGA 1",[S1] [UPCOMING] [Indonesia Super League] Persib vs Persik Kediri - Server 1 (Kltra - SD [IOS]) • 19:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
@@ -11381,6 +11372,16 @@ https://rbtv-resolver.xr3ed-edge.workers.dev/live/awiL9-C6dNODvis0uNN5TmCiXIWMv1
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 https://rbtv-resolver.xr3ed-edge.workers.dev/live/h2-0NbAAJjNWTZhMOlY9shDXLemQyyElG5K5zX2Hjwf5kkd9HA.m3u8?s=0
+
+EXTINF:-1 tvg-id="rbtv-4474581" tvg-name="[Liga 1 Indonesia] Persib Bandung vs Persatuan Sepak Bola Indonesia Kediri • 🔴 LIVE [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="BOLA | BRI LIGA 1",[Liga 1 Indonesia] Persib Bandung vs Persatuan Sepak Bola Indonesia Kediri • 🔴 LIVE [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/SWtiKQ_UktqTmg8vJLZ3MLNVF0Y9xZ6bJLvG_p9g_vHvx6Skrg.m3u8?s=0
+
+EXTINF:-1 tvg-id="rbtv-4474581" tvg-name="[Liga 1 Indonesia] Persib Bandung vs Persatuan Sepak Bola Indonesia Kediri • 🔴 LIVE [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="BOLA | BRI LIGA 1",[Liga 1 Indonesia] Persib Bandung vs Persatuan Sepak Bola Indonesia Kediri • 🔴 LIVE [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/lTMlegq5ehIELXMVxZ7DAlqWcUoPkguec8lgcd18-bo480gzfQ.m3u8?s=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR LIVE 1
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
