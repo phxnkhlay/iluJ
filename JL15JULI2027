@@ -9572,6 +9572,22 @@ FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
 MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
 DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
 
+#EXTINF:-1 tvg-id="67" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks INDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=apistech
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", Dreamworks INDO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+
+
 
 
 ======
@@ -13193,19 +13209,19 @@ https://polsey1.xn--zlqv28l.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
 
 ==========TNT
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | ;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 1(🏆AIOS)
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | OLAHRAGA POPULER;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 1(🏆AIOS)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | ;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 2(🏆AIOS)
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | OLAHRAGA POPULER;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 2(🏆AIOS)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | ;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 3(🏆AIOS)
+#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | OLAHRAGA POPULER ;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGA;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC;OLAHRAGA | MOTOR GP",⭐TNT SPORTS 3(🏆AIOS)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
@@ -15008,9 +15024,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Runne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ResidentEvil.m3u8
 
-#EXTINF:-1 tvg-logo="https://filmyhype.com/wp-content/uploads/2026/07/Resident-Evil-2026.jpg" group-title="VOD TRIAL", RESIDENT EVIL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ResidentEvil.m3u8
 
 
 
