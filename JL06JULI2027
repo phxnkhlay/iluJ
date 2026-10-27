@@ -3863,13 +3863,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 =================
 
-#EXTINF:-1 tvg-id="65" tvg-logo="" group-title="ANAK",Animax (🍬SUBJECT TES)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" tvg-logo="" group-title="ANAK",Animax HD (🍬SUBJECT TES 2)
 https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
 
@@ -4028,12 +4021,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg" group-title="DUNIA | MALAYSIA",TV 9 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=28
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 #EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",DMI TV (🏵 NS)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=29
@@ -4770,12 +4757,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg" group-title="DUNIA | MALAYSIA",TV 9 (🏵NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=28
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 #EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",DMI TV (🏵NS)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=29
@@ -5652,8 +5633,6 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
 
-#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="ANAK",Aniplus (((🎃)))
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4osDsX2mOO5Da1xbYpRu4Ro
 
 ===FILM
 
@@ -9198,8 +9177,6 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="FILM;GAYA HIDUP",🎬Warner TV (🇮🇩)⬅️
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/4KdFidK.jpeg" group-title="ANAK",🎬Cartoon Network (🇮🇩)⬅️
-http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="DUNIA | KOREA;FILM",🎬tvN Movies(🇮🇩)⬅️
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
@@ -10253,6 +10230,10 @@ FILM
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/txTPHX4.jpeg",FILM NON SUB
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",LOTUS MACAO 🇵🇭 (CVG)
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
 #EXTINF:-1 tvg-id="" tvg-name="5tar Max" tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",5tar Max
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
 #EXTINF:-1 tvg-id="" tvg-name="ActionMax" tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",ActionMax
@@ -10488,9 +10469,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #======================================================== LOTUS MACAO ====================================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/txTPHX4.jpeg" group-title="FILM NON SUB",LOTUS MACAO 🇵🇭 (CVG)
-http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 ========================================================================================================================================
 
@@ -10826,10 +10804,6 @@ DUNIA | THAILAND NON SUB NON SUB
 #EXTINF:-1 group-logo="https://i.imgur.com/pqA37KG.jpeg",DUNIA | THAILAND NON SUB NON SUB
 ==========
 
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CHANNEL 8 TH
-http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
@@ -10871,20 +10845,14 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg",ASTV NEWS 1
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 group-title="DUNIA | THAILAND NON SUB" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg", POLICE TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",NEWS1
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", WHITE CHANNEL
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", COOL CHANNEL
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CABLE CHANNEL 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -12250,48 +12218,9 @@ DUNIA | TAIWAN ETC
 
 #EXTINF:-1 group-logo="https://i.imgur.com/eCBAXse.jpeg",DUNIA | TAIWAN ETC 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Lotus Macao 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Lotus Macao Skygo
-https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",VIUTV TAIWAN
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",VIUTV6 TAIWAN
-http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",VIUTV National Games-2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",HOY TV 76
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",HOY TV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",HOY TV 78
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",RTHK 31
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Live Channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now News Channel
-http://208.87.242.79/livehttpplay?channel_id=20041
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Finance Channel
-http://208.87.242.79/livehttpplay?channel_id=13000
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Sports Channel
-http://hls.168.us.kg/u/630/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Star Channel (Chinese)
-http://208.87.242.79/livehttpplay?channel_id=13004
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Star Channel (Cantonese)
-http://208.87.242.79/livehttpplay?channel_id=13003
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Now Popcorn Channel
-http://208.87.242.79/livehttpplay?channel_id=13002
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",CHC Action Movies
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -12482,23 +12411,7 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Shaw Brothers comedies
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Movies
-http://cdn8.163189.xyz/163189/lhdy
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Classics
-http://cdn8.163189.xyz/163189/lhjd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Cartoons
-http://cdn8.163189.xyz/163189/lhkt
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Idols
-http://cdn8.163189.xyz/163189/lhox
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Japanese & Korean
-http://cdn8.163189.xyz/163189/lhrh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCBAXse.jpeg" group-title="DUNIA | TAIWAN ETC",Longhua Drama
-http://cdn8.163189.xyz/163189/lhxj
 
 ==========
 BRUNEI
