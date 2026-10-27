@@ -9518,42 +9518,30 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀LC
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-####KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V)
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
-###https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-####KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V2)
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
-###https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL", INDOSIAR  (🚀V0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
-https://vidsemar.pages.dev/terraluna2/205.mpd
+https://vidsemar.pages.dev/terraluna3/205.mpd
+
+#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="Indonesia" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR  (🚀V3)
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL", INDOSIAR  (🚀V1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL", INDOSIAR  (🚀V2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 ==================PIALA PRES==============
 ===========================================
