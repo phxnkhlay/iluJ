@@ -10887,6 +10887,17 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=4DKagYj3e9Y
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY⭐ BEIN SPORTS 5 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY⭐Soccer Channel (🏵 NS)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
