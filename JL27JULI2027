@@ -10854,15 +10854,54 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b1
 
 #EXTINF:-1 tvg-id="47" tvg-chno="83" tvg-name="bollywood-4u" tvg-logo="https://i.imgur.com/997Emg8.jpeg" group-title="DUNIA | INDIA NON SUB", Bollywood 4U
 https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+
+
+# =====================================================
+# CATEGORY: BOLA | DFB POKAL
+# =====================================================
+#EXTINF:-1 group-logo="https://i.imgur.com/pCGZJdj.jpeg",BOLA | DFB POKAL
+
+#EXTINF:-1 group-title="BOLA | DFB POKAL" tvg-logo="https://i.imgur.com/pCGZJdj.jpeg", 00:00 WIB Dynamo Dresden vs Schalke 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 group-title="BOLA | DFB POKAL" tvg-logo="https://i.imgur.com/pCGZJdj.jpeg", 02:45 WIB Bayern München vs Magdeburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 group-title="BOLA | DFB POKAL" tvg-logo="https://i.imgur.com/pCGZJdj.jpeg", 02:45 WIB Bayer Leverkusen vs Nürnberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
 # =====================================================
 # CATEGORY: ACL LEAGUE TWO
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/pyEAVQW.jpeg",EVENT | ACL LEAGUE TWO
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS CONG-VIETTEL FC
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
+https://www.youtube.com/watch?v=4DKagYj3e9Y
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="rbtv-4479806" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 3
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/AEM0EMf4NBKQqf0zLBMkbrj_h1ucL_OhHM79IHti7iJz7MuM6A.m3u8?s=0&proxy_seg=1
+
+#EXTINF:-1 tvg-id="rbtv-4479806"  tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 4
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/rGIPusFrP4Q4r96Ctn6W8kiiq-ePnDkikvKsqD607lC2jKwQ1A.m3u8?s=0&proxy_seg=1
+
 
 
 
@@ -11865,6 +11904,38 @@ FA CUP
 ===========
 
 #EXTINF:-1 group-logo="https://i.imgur.com/lInKChP.jpeg",BOLA | FA CUP
+
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", 02:30 WIB Manchester City vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1  group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", 02:45 WIB Sunderland vs Brentford
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1  group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", 02:45 WIB Fulham vs Crystal Palace
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1  group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", 02:45 WIB AFC Bournemouth vs Aston Villa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1  group-title="BOLA | FA CUP" tvg-logo="https://i.imgur.com/lInKChP.jpeg", 03:00 WIB Liverpool vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 =========
@@ -14724,6 +14795,42 @@ SERIE A
 ============================
 KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ============================
+
+
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:30 WIB Milan vs Bologna
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:30 WIB Parma vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 00:30 WIB Venezia vs Internazionale
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Genoa vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Monza vs Napoli
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++20:00 Cagliari vs Bologna +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
