@@ -9542,6 +9542,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR  (INDOSIAR  (🚀LC1)
+https://iptv.lancartech.co.id:443/Muhammad2/Ridwan1235/11
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg",Indosiar INDOSIAR  (🚀LC2)
+https://iptv.lancartech.co.id:443/dtr56789/abd33333/11
+
+
 ==================PIALA PRES==============
 ===========================================
 
@@ -10978,27 +10985,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",REELZ ✅
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
-https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Viva One Movie ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=857bf83943f66dc20c69f2708139d804:0b835a9e8659df574afb92b9cbe76e41
 https://cdnone.vivamax.net/video/P02237_FF_FM_MECHANIC RESURRECTION/dash/hd.mpd
-
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",OCN Movies ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
-https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Rasi Movies ✅
-https://rasinetworks.in/live/rasimovieshd/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Rasi Hollywood ✅
-https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 
 #EXTINF:-1 tvg-id="ScreenPix.Action.HD.us2" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Screenpix Action ✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -11054,71 +11046,17 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CLASSIC ACTION ✅
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CINEMONDAY ✅
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CINEDAY LITE ✅
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",RAKUTEN TOP ✅
-https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CINE (DUAL LANG) ✅
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNIVER COMEDY (DUAL LANG) ✅
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNIVER CRIME (DUAL LANG) ✅
-#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNIVER CHANNEL (DUAL LANG) ✅
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNIVER PREMIER (DUAL LANG) ✅
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNIVER REALITY (DUAL LANG) ✅
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",UNICINEMA ✅
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Zee Cinema ᴴᴰ ✅
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Z TV ✅
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Popstar! TV ✅
-https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MIRAMAX ✅
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MGPLUS ✅
-https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MGDRIVE ✅
-https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MGHITS ✅
-https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HERSPHERE ✅
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
@@ -11126,8 +11064,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",OUTERSPHERE ✅
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Disc Film ✅
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Horror Machine ✅
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
@@ -11252,84 +11189,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/
 #KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",AMC ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Discovery ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Discovery ID ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
 
 ===========================
 VERSION 4
 ==========================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cartoon Network ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cebda34393a4b20b0748445ba89e8c4:2c125f88407aff752517ffc485436043
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560401/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nicktoons ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Stingray Concerts ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561101/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FAST AND FUN BOX ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FX Life ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",National Geographic ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nat Geo Wild ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Animal Planet ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Viasat Kino Action ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560902/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Viasat Kino Comedy ✅
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc75aa7946574c98ba16581c6fcb482c:0067607f24eed00bbf50155760f8c6b3
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
 
 #EXTINF:-1 tvg-id="Amazon.US.TheWalkingDeadChannel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/The_walking_dead_station._SL170_FMpng_.png" group-title="DUNIA | AMERIKA NON SUB",The Walking Dead Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"50a71b1ce9eb116cd7bd98a946d71109":"08b8b340baeebca12ef50a52c6ec1d1d"}
 https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="DUNIA | AMERIKA NON SUB",TNT (PXL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
+
 
 
 =========================
@@ -11339,96 +11210,46 @@ VERSION 4
 http://41.205.93.154/AandE/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",ACC Network 🎯
 http://23.239.31.26:8989/accnetwork/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",AMC 🎯
-http://41.205.93.154/AMC/index.m3u8
+
 #EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Animal Planet 🎯
 http://23.239.31.26:8989/animalplanet/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",BET 🎯
-http://212.102.60.231/BET/index.m3u8
+
 #EXTINF:-1 tvg-chno="14" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Big Ten Network 🎯
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Bloomberg TV 🎯
 http://41.205.93.154/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Boomerang 🎯
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Bounce TV 🎯
-http://212.102.60.231/BOUNCE_TV/index.m3u8
+
 #EXTINF:-1 tvg-chno="18" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Bravo TV 🎯
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cartoon Network 🎯
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax 🎯
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
 #EXTINF:-1 tvg-chno="28" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CMT 🎯
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",CNBC 🎯
-http://41.205.93.154/CNBC/index.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Comedy Central 🎯
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
 #EXTINF:-1 tvg-chno="34" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cooking Channel 🎯
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Discovery Channel 🎯
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Disney XD 🎯
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",E! Entertainment 🎯
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",ESPN U 🎯
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
 #EXTINF:-1 tvg-chno="70" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FUSE 🎯
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FX 🎯
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FXX 🎯
-http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO 🎯
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO 2 🎯
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Comedy 🎯
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Zone 🎯
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="88" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HLN TV 🎯
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Lifetime 🎯
-http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Lifetime Movie Network 🎯
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MSG 🎯
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MSNBC 🎯
-http://41.205.93.154/MSNBC/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="99" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MTV 🎯
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",National Geographic 🎯
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",NBA TV 🎯
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nickelodeon 🎯
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nicktoons 🎯
-http://212.102.60.231/NICKTOONS/index.m3u8
+
 #EXTINF:-1 tvg-chno="119" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Paramount Network 🎯
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="QVC.HD.us2" tvg-name="QVC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",QVC 🎯
-http://212.102.60.231/QVC/index.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Reelz Channel 🎯
-http://212.102.60.231/REELZ/index.m3u8
+
 #EXTINF:-1 tvg-chno="126" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",SEC Network 🎯
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Showtime 🎯
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Sportsman Channel 🎯
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",SportsNet New York 🎯
-http://212.102.60.231/SNY/index.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Starz 🎯
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Starz Encore Classic 🎯
-http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Syfy 🎯
-http://41.205.93.154/SYFY/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="157" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",VH1 🎯
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Vice TV 🎯
@@ -11878,72 +11699,35 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-
-#EXTINF:-1 tvg-id="rbtv-4474596" tvg-name="🔴 LIVE [Liga 1 Indonesia] Arema FC vs Bali United [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Arema FC vs Bali United [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/3LeKZMFFxJFR5SB5ZXdCAKx1-TBxvPNgkeIHSZMJb2-ENx03xQ.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474608" tvg-name="🔴 LIVE [Liga 1 Indonesia] Persatuan Sepak Bola Indonesia Kediri vs Persita Tangerang [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Persatuan Sepak Bola Indonesia Kediri vs Persita Tangerang [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/2gwm4oIhtj8ktv0mDJOisFp0BKnvBtAzNphYhVfHufPSZIK8tw.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474627" tvg-name="🔴 LIVE [Liga 1 Indonesia] PSM Makassar vs Madura United [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] PSM Makassar vs Madura United [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/K8lVKADmqbeg8ChYKe18Vq6kLzCPbl9O3v1NZvPZYH_1L9utSA.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474596" tvg-name="🔴 LIVE [Liga 1 Indonesia] Arema FC vs Bali United [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Arema FC vs Bali United [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/oHdV7Xc55KUJ5hlG1NJeHahsbEfcW8Dfx-E7VjKXfRgMdJq6_A.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474608" tvg-name="🔴 LIVE [Liga 1 Indonesia] Persatuan Sepak Bola Indonesia Kediri vs Persita Tangerang [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Persatuan Sepak Bola Indonesia Kediri vs Persita Tangerang [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/AWI_aDzszFxpiMXoB_KYKRVloYvGayjn2CcYTFeB5he5Hy_CnQ.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474627" tvg-name="🔴 LIVE [Liga 1 Indonesia] PSM Makassar vs Madura United [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] PSM Makassar vs Madura United [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/Wzzb9Q71fnyXCLWS_PA82BwQqTcipznoV3dApm7rulvd9mRWDw.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S1] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] Arema vs Bali United
+#EXTINF:-1 tvg-id="event3-1265854" tvg-name="[S1] [IDN Super League] Dewa United vs Persija Jakarta" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] Dewa United vs Persija Jakarta (OTE)
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/sd-6MxiKavp5mCGD2XPfL.m3u8?txSecret=4f08f26865877d99fbee0988efe608c1&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://pulltx.cqsycw.com/live/202_5687836_1.m3u8?txSecret=f7e5f3495e637c27c3765ec76eb1a1cd&txTime=6AEB22B4|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S2] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] Arema vs Bali United
+#EXTINF:-1 tvg-id="event3-1265854" tvg-name="[S2] [IDN Super League] Dewa United vs Persija Jakarta" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] Dewa United vs Persija Jakarta (OTE)
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/202_5687835_1.m3u8?txSecret=6c14d8e36ceb18a85bfbabbc66b13184&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614403.m3u8?txSecret=07b227c2e9e24bde0c12cee321a9c5b8&txTime=6AE5F25B|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="event3-1022230" tvg-name="[S3] [IDN Super League] Arema vs Bali United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S3] [IDN Super League] Arema vs Bali United
+#EXTINF:-1 tvg-id="event3-3957957" tvg-name="LIVE [Indonesia Super League] Dewa United vs Persija Jakarta" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",LIVE [Indonesia Super League] Dewa United vs Persija Jakarta
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://live.vivo155.com/live/sd-1-4614401.m3u8?txSecret=eab2ffc1c413bdcc0b824b222eba1056&txTime=6AE5C4E7|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614403.m3u8?txSecret=c7ebb728e906c7932e82312bd9dd2612&txTime=6AE5EF18|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S1] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] PSM Makassar vs Madura United
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/sd-6MxiKavp5snhpU1982.m3u8?txSecret=f2b9f1b4337901482764dab203dd4173&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S2] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] PSM Makassar vs Madura United
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/202_5687834_1.m3u8?txSecret=5b3f0620038121ad38792192cdda3975&txTime=6AEAF578|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="rbtv-4474698" tvg-name="🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/cbOV4EajNABZrHQS6tYu77M2cjkCljSEe8nNbYr8cqiiyPLOLg.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="event3-8717882" tvg-name="[S3] [IDN Super League] PSM Makassar vs Madura United" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S3] [IDN Super League] PSM Makassar vs Madura United
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://live.vivo155.com/live/sd-1-4614402.m3u8?txSecret=44f8f2a0e0026500b56ea6336fab7b68&txTime=6AE5C4E7|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="rbtv-4474698" tvg-name="🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="🔴 BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/VZEv98zioW4YQlakh59dZS7MN2b7NB7RHq8sPvb-vBQXBhOVhw.m3u8?s=0&proxy_seg=1
+
 
 
 
@@ -13198,7 +12982,7 @@ https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Formula1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",🏎️ FORMULA 1 2 (Sky Sport German)
 https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Formula2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",🏎️ FANCODE 2 LIVE EVENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",🏎️ FANCODE 2 BOLA | BRI LIGA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
