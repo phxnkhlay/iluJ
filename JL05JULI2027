@@ -5494,19 +5494,18 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
 --> HBO --
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇)
-https://delivery.skuyytv.xyz/stream/hbo/playlist.m3u8?token=jyfds&v=20200807
+
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family (🦇)
-https://delivery.skuyytv.xyz/stream/hbo_family/playlist.m3u8?token=jyfds&v=20200807
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits (🦇)
-https://delivery.skuyytv.xyz/stream/hbo_hits/playlist.m3u8?token=jyfds&v=20200807
+
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature  (🦇)
-https://delivery.skuyytv.xyz/stream/hbo_signature/playlist.m3u8?token=jyfds&v=20200807
+
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax  (🦇)
-https://delivery.skuyytv.xyz/stream/cinemax/playlist.m3u8?token=jyfds&v=20200807
+
 =======
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO HD (🦇)
@@ -11670,34 +11669,38 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 tvg-id="event3-1265854" tvg-name="[S1] [IDN Super League] Dewa United vs Persija Jakarta" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S1] [IDN Super League] Dewa United vs Persija Jakarta (OTE)
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/202_5687836_1.m3u8?txSecret=f7e5f3495e637c27c3765ec76eb1a1cd&txTime=6AEB22B4|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="event3-1265854" tvg-name="[S2] [IDN Super League] Dewa United vs Persija Jakarta" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",[S2] [IDN Super League] Dewa United vs Persija Jakarta (OTE)
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://live.vivo155.com/live/sd-1-4614403.m3u8?txSecret=07b227c2e9e24bde0c12cee321a9c5b8&txTime=6AE5F25B|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="event3-3957957" tvg-name="LIVE [Indonesia Super League] Dewa United vs Persija Jakarta" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",LIVE [Indonesia Super League] Dewa United vs Persija Jakarta
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://live.vivo155.com/live/sd-1-4614403.m3u8?txSecret=c7ebb728e906c7932e82312bd9dd2612&txTime=6AE5EF18|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="rbtv-4474698" tvg-name="🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]
+#EXTINF:-1 tvg-id="rbtv-4474625" tvg-name="🔴 LIVE [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/cbOV4EajNABZrHQS6tYu77M2cjkCljSEe8nNbYr8cqiiyPLOLg.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/X0AXP89NxQ712dEkYJDlpQXw5BXvscU7u4FdqAoaoHAgFNY87Q.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="rbtv-4474698" tvg-name="🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]" tvg-logo="https://logos1.tcxru135mdqf.ru/aelogo/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="🔴 BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta [Server 1]
+#EXTINF:-1 tvg-id="rbtv-4474691" tvg-name="🔴 LIVE [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/VZEv98zioW4YQlakh59dZS7MN2b7NB7RHq8sPvb-vBQXBhOVhw.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/4_hHKYeRtDGO0w4nX5nYtQqgQ2Lb2oiZ9Wu4SWmWrNwOkZjr3Q.m3u8?s=0&proxy_seg=1
+
+#EXTINF:-1 tvg-id="rbtv-4501071" tvg-name="🔴 LIVE [Liga 2] PSIS Semarang vs Persikad Depok [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/1d9e28ffbeff11319f93a6c396d00537.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 2] PSIS Semarang vs Persikad Depok [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/pDbLW-Lui-Rexh-Za2n6VB26203yR1PAmKHO1GHVwHegmMscRg.m3u8?s=0&proxy_seg=1
+
+#EXTINF:-1 tvg-id="rbtv-4525999" tvg-name="🔴 LIVE [Indonesian Women's Liga 1] Dewa United FC (W) vs Persija Jakarta (w) [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/8ee8a29b0550647780c18c97e994e972.jpg!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Indonesian Women's Liga 1] Dewa United FC (W) vs Persija Jakarta (w) [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/IxfvKqU3KDlnSJHM5YBHqSpjZmgKtk-TuAS5cIlK-siDPnpZYw.m3u8?s=0&proxy_seg=1
+
+#EXTINF:-1 tvg-id="event3-1570899" tvg-name="LIVE [IDN Super League] Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",LIVE [IDN Super League] Persib Bandung vs Isenmulang Kalteng
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://pulltx.cqsycw.com/live/202_5687877_1.m3u8?txSecret=3113681b8756c7c9a2727876e4a72d69&txTime=6AEC4338|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="event3-2179762" tvg-name="LIVE [Indonesia Super League] Persib Bandung vs Adhyaksa FC" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",LIVE [Indonesia Super League] Persib Bandung vs Adhyaksa FC
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
+https://live.vivo155.com/live/sd-1-4614407.m3u8?txSecret=a338ef2149581fb2946d672c53f7d21a&txTime=6AE712A5|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 
 
