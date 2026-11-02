@@ -5493,19 +5493,56 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
 
 --> HBO --
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇)
+
+HBO
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
 
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family (🦇)
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302248.ts
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits (🦇)
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302250.ts
 
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302249.ts
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature  (🦇)
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302251.ts
 
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax  (🦇)
-
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
 =======
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO HD (🦇)
@@ -13646,383 +13683,11 @@ http://tv14s.xyz:8080/BenA@443/443@6377/10252
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MULTI MATCH +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐TNT SPORTS 1(🏆AIOS)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-==STAR SPORT SELECT 1 (31/10/2026)
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐Star Sports Select 1 FHD (👑TATAPLAY)
-http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐Star Sports Select 1 HD (👑SBW)
-https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐ StarSports Selet 1 (Airtel)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐ STAR SPORTS SELECT 1 FHD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-==STAR SPORT SELECT 1 (1/10/2026)
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐Star Sports Select 1 FHD (👑TATAPLAY)
-http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐Star Sports Select 1 HD (👑SBW)
-https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐ StarSports Selet 1 (Airtel)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥19:30 Chelsea vs Manchester United⭐⭐ STAR SPORTS SELECT 1 FHD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-==STAR SPORT SELECT 1 (1/10/2026)
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥23:30 Liverpool vs Arsenal⭐⭐Star Sports Select 1 FHD (👑TATAPLAY)
-http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥23:30 Liverpool vs Arsenal⭐⭐Star Sports Select 1 HD (👑SBW)
-https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥23:30 Liverpool vs Arsenal⭐ StarSports Selet 1 (Airtel)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥23:30 Liverpool vs Arsenal⭐⭐ STAR SPORTS SELECT 1 FHD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-==STAR SPORT SELECT 1 (1/10/2026)
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥3:00 Aston Villa vs Fulham⭐⭐Star Sports Select 1 FHD (👑TATAPLAY)
-http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",💥3:00 Aston Villa vs Fulham⭐⭐Star Sports Select 1 HD (👑SBW)
-https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥3:00 Aston Villa vs Fulham⭐ StarSports Selet 1 (Airtel)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥3:00 Aston Villa vs Fulham⭐⭐ STAR SPORTS SELECT 1 FHD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-==STAR SPORT SELECT 2 (31/10/2026)
-
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="BOLA | LIGA INGGRIS",💥22:00Coventry City vs Sunderland⭐⭐Star Sports Select 2 FHD  (👑TATAPLAY)
-http://mag.diamondtv.one:80/unur/rtdVDBNG2z/4161
-#EXTINF:-1 gtvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥22:00Coventry City vs Sunderland⭐⭐ STAR SPORTS SELECT 2 HD✅ (👑AIRTEL 1)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥22:00Coventry City vs Sunderland⭐StarSports Selet 2(Airtel)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
-#EXTINF:-1 tvg-id="sportsstarsportsselect2hd" tvg-name="SPORTS - STAR SPORTS SELECT 2 HD"  tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",💥22:00Coventry City vs Sunderland⭐⭐ STAR SPORTS SELECT 2 HD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090640.ts
-
-
-
-==SKY SPORT (31/10/26)
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥19:30 Chelsea vs Manchester United⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥22:00 Manchester United Vs Brighton Hove albion⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Manchester United Vs Brighton Hove albion⭐Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-==SKY SPORT (31/10/26)
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥0:30
-Tottenham Hotspur vs Crystal Palace⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥0:30
-Tottenham Hotspur vs Crystal Palace⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥0:30
-Tottenham Hotspur vs Crystal Palace⭐Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-==SKY SPORT (31/10/26)
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥3:00
-Aston Villa vs Fulham⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥3:00
-Aston Villa vs Fulham⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥3:00
-Aston Villa vs Fulham⭐Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-==SKY SPORT (31/10/26)
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥23:30 Liverpool vs Arsenal⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",📌🔥23:30 Liverpool vs Arsenal⭐🔥SKY SPORT 8 (🛸)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥23:30 Liverpool vs Arsenal⭐Sky Sport8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl10.m3u8
-
-==SKY SPORT DE
-#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥19:30 Chelsea vs Manchester United Sky Sports Premier League DE
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
-
-#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League"tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥19:30 Chelsea vs Manchester United Sky Sports Premier League SD
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-
-=====ESPN BRAZIL (31/10/2026)
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Manchester City vs Brighton & Hove AlbionESPN BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19060/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Manchester City vs Brighton & Hove AlbionESPN HD BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19056/index.m3u8
-
-====EPSN BRAZIL (1/10/2026)
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥0:30 Tottenham Hotspur vs Crystal Palace ESPN BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19060/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥0:30 Tottenham Hotspur vs Crystal Palace ESPN HD BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19056/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥23:30 Liverpool vs Arsenal ESPN BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19060/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥23:30 Liverpool vs Arsenal ESPN HD BR
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19056/index.m3u8
-=====renerene
-
-== BAHRAIN (31/10/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥19:30 Chelsea vs Manchester United⭐ BEIN SPORTS 1 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Manchester United Vs Brighton Hove albion⭐ BEIN SPORTS 1 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-== BAHRAIN (1/11/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥0:30 Tottenham Hotspur vs Crystal Palace⭐ BEIN SPORTS 1 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥3:00 Aston Villa vs Fulham⭐ BEIN SPORTS 1 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥23:30 Liverpool vs Arsenal⭐ BEIN SPORTS 1 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
-
-== BAHRAIN (31/10/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Brentford vs Nottingham Forest⭐ BEIN SPORTS 2 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
-== BAHRAIN (1/11/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥3:00 Aston Villa vs Fulham⭐ BEIN SPORTS 2 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
-
-== BAHRAIN (31/10/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Hull City vs Ipswich Town⭐ BEIN SPORTS 3 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
-== BAHRAIN (31/10/26)
-#EXTINF:-1 ttvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 AFC Bournemouth vs Leeds United⭐BEIN SPORTS 4 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
-== BAHRAIN (31/10/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Coventry City vs Sunderland⭐ BEIN SPORTS 5 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
-
-== TURKI (31/10/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥19:30 Chelsea vs Manchester United⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥22:00 Manchester United Vs Brighton Hove albion⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-== TURKI (1/11/26)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥0:30 Tottenham Hotspur vs Crystal Palace⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥3:00 Aston Villa vs Fulham⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",📌🔥23:30 Liverpool vs Arsenal⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-
-
 
 =================================================================================================================================================================================
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐NEXT MATCH⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 24/10/2026 FINISH
 ==================================================================================================================================================================================
-SKY SPORT MAIN EVENT
 
-====================
-Minggu, 1 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Tottenham Hotspur vs Crystal Palace🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Tottenham Hotspur vs Crystal Palace🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Tottenham Hotspur vs Crystal Palace🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Tottenham Hotspur vs Crystal Palace🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Tottenham Hotspur vs Crystal Palace🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Aston Villa vs Fulham🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Aston Villa vs Fulham🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Aston Villa vs Fulham🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Aston Villa vs Fulham🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Aston Villa vs Fulham🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Arsenal🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Arsenal🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Arsenal🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Arsenal🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Arsenal🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-====================
-Selasa, 3 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Newcastle United vs Everton🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Newcastle United vs Everton🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Newcastle United vs Everton🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Newcastle United vs Everton🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Newcastle United vs Everton🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-====================
-Sabtu, 7 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Everton vs Coventry City🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Everton vs Coventry City🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Everton vs Coventry City🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Everton vs Coventry City🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Everton vs Coventry City🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-====================
-Minggu, 8 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Nottingham Forest vs Manchester City🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Nottingham Forest vs Manchester City🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Nottingham Forest vs Manchester City🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Nottingham Forest vs Manchester City🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Nottingham Forest vs Manchester City🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Crystal Palace vs Liverpool🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Crystal Palace vs Liverpool🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Crystal Palace vs Liverpool🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Crystal Palace vs Liverpool🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Crystal Palace vs Liverpool🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Manchester United vs Aston Villa🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Manchester United vs Aston Villa🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Manchester United vs Aston Villa🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Manchester United vs Aston Villa🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Manchester United vs Aston Villa🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-====================
-Minggu, 22 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Newcastle United vs Arsenal🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Newcastle United vs Arsenal🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Newcastle United vs Arsenal🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Newcastle United vs Arsenal🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥0:30 Newcastle United vs Arsenal🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥21:00 Hull City vs Brighton & Hove Albion🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥23:30 Liverpool vs Manchester United🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
-
-====================
-Selasa, 24 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Brentford vs Everton🔥Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTMzNzI0MDYzNjY6Y2RubGl2ZXR2LnR2OjFmYjg0NjUzNGIwY2ZhM2EuYjVmODU0M2M5NDUxYzZmNTJhNTA4YTBiM2Y0YzQ0MGQ4OGFkOWJhMzVjNjIwNWEyMWFjNmYzOWZlYzBlNzYzOQ
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Brentford vs Everton🔥Sky Sports Main Event (2)
-http://kwick.cc:80/live/Michelle1/Michelle1/276918.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Brentford vs Everton🔥Sky Sports Main Event (b)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/9308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Brentford vs Everton🔥Sky Sports Main Event (k)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/47868.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥3:00 Brentford vs Everton🔥Sky Sports Main Event (s)
-http://tkiptv.net:80/play/live.php?mac=00:1A:79:6d:5f:fe&stream=215921&extension=ts
 
 
 =================================================================================================================================================================================
@@ -14415,83 +14080,6 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ MATCH ALL +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Levante vs Atlético Madrid Bein Sports 1 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Rayo Vallecano vs Celta de Vigo Bein Sports 1 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title=BOLA | LALIGA",🔥22:15 Rayo Vallecano vs Celta de Vigo🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:0  tvg-logo="https://www.maxima.best/images/news/match.jpg" group-title=BOLA | LALIGA",🔥20:00 Levante vs Atlético Madrid BEIN SPORT 2 AU
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1  group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥20:00 Levante vs Atlético Madrid🔥ESPN Deportes HD US
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30063/index.m3u8
-
-#EXTINF:-1  group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥22:15 Rayo Vallecano vs Celta de Vigo🔥ESPN Deportes HD US
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30063/index.m3u8
-
-====1 NOV 2026 (BEIN 1 INDO)
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Getafe vs SevillaBein Sports 1 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Racing Santander vs Real Madrid Bein Sports 1 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-====1 NOV 2026 (BEIN 2 INDO)
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥0:30 Real Betis vs MálagaBein Sports 2 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00Barcelona vs Deportivo Alavés Bein Sports 2 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-====2 NOV 2026 (BEIN 2 INDO)
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥0:30 Elche vs Valencia Bein Sports 2 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥03:00 Athletic Club vs Real Sociedad Bein Sports 2 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-
-
 ====3 NOV 2026 (BEIN 1 INDO)
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Deportivo La Coruña vs Osasuna Bein Sports 1 (🏵 NS)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -14500,26 +14088,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-==PREMIER SPORT 1 (2 NOV)
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥0:30 Elche vs Valencia Premiere Sports 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥3:00 Athletic Club vs Real Sociedad Premiere Sports 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-==PREMIER SPORT 1 (2 NOV)
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥0:30 Elche vs Valencia Premiere Sports 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥3:00 Athletic Club vs Real Sociedad Premiere Sports 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 ==PREMIER SPORT 1 (3 NOV)
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥3:00 Deportivo La Coruña vs Osasuna Premiere Sports 1 UK
@@ -14527,106 +14097,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-==PREMIER SPORT 2 (1 NOV)
-
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥20:00 Getafe vs Sevilla🔥Premiere Sports 2 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥22:15 Racing Santander vs Real Madrid🔥Premiere Sports 2 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-
-======MATCH 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Levante vs Atlético Madrid🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Rayo Vallecano vs Celta de Vigo🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥0:30 Real Betis vs Málaga🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Barcelona vs Deportivo Alavés🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Getafe vs Sevilla🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Racing Santander vs Real Madrid🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥0:30 Elche vs Valencia🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Athletic Club vs Real Sociedad🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Deportivo La Coruña vs Osasuna🔥Матч!Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/142/index.m3u8
 
 
 ====PRIMA SPORT 2
-====================
-Sabtu, 31 Oktober
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Levante vs Atlético Madrid🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Rayo Vallecano vs Celta de Vigo🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-====================
-Minggu, 1 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Barcelona vs Deportivo Alavés🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥20:00 Getafe vs Sevilla🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥22:15 Racing Santander vs Real Madrid🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-====================
-Senin, 2 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥0:30 Elche vs Valencia🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-====PRIMA SPORT 3
-====================
-Minggu, 1 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Athletic Club vs Real Sociedad🔥 ⭐PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 ====================
 Selasa, 3 November
@@ -14736,77 +14209,6 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 
 
 +++++++++++++++++++++ALL MATCH+++++++++++++++
-====================
-Sunday, 1 November
-++++++++++++++++++++
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Udinese vs Roma🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Udinese vs Roma🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Milan vs Internazionale🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Milan vs Internazionale🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥18:30 Como vs Venezia🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥18:30 Como vs Venezia🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥21:00 Lazio vs Cagliari🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥21:00 Lazio vs Cagliari🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-====================
-Monday, 2 November
-++++++++++++++++++++
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Lecce vs Genoa🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Lecce vs Genoa🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Juventus vs Napoli🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Juventus vs Napoli🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
 
 ====================
 Tuesday, 3 November
@@ -14851,13 +14253,6 @@ http://stream.mcquack.net/130/index.m3u8
 =============================================
 PRIMA SPORT 1
 
-====================
-Senin, 2 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Juventus vs Napoli🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 
 ====================
 Selasa, 3 November
@@ -14880,25 +14275,7 @@ https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 
 ===================PRIMA SPORT 2
 ====================
-Minggu, 1 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Udinese vs Roma🔥 ⭐PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥21:00 Frosinone vs Torino🔥 ⭐PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-====================
-Senin, 2 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:00 Lecce vs Genoa🔥 ⭐PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 =================================================================================================================================================================================
