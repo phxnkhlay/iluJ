@@ -14606,6 +14606,15 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDhantuDalamSel.m3u8
 
 ===VOD INDO
+#EXTINF:-1 tvg-logo="https://portalbmi.id/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-08-at-03.35.23-1024x576.jpeg" group-title="VOD LOKAL", WARKOP DKI - VIRALIN DOOONG..!!!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwarkopDKI-ViRaLinDong.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/88T3wbfb0pM/maxresdefault.jpg" group-title="VOD LOKAL", JANGAN BUANG IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjanganBuangIbu.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YtqVzRuKAdU/maxresdefault.jpg" group-title="VOD LOKAL", TUHAN, BENARKAH KAU MENDENGARKU?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDTuhanBenarkahKauMendengarku.m3u8
