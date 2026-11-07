@@ -12635,11 +12635,14 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&ex
 
 
 
-#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Premier League 
-http://royaltv.world:25461/live/S1048/9886/144.ts
 
-#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Grandstand
-http://royaltv.world:25461/live/S1048/9886/146.ts
+===
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Premier League (token)
+http://royaltv.world:25461/live/T6013/4432/144.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Premier League 2 (token)
+http://royaltv.world:25461/live/T6013/4432/145.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham HotspurAstro Grandstand
+http://royaltv.world:25461/live/T6013/4432/146.ts
 
 
 #EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Leeds United vs Tottenham Hotspur⭐TNT SPORTS 1(🏆AIOS)
@@ -12694,16 +12697,27 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&ex
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
-#EXTINF:-1group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Fulham vs Newcastle UnitedSKY SPORT 8 (🛸)
+#EXTINF:-1group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Fulham vs Newcastle United SKY SPORT 8 (🛸)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Premier League (token)
+http://royaltv.world:25461/live/T6013/4432/144.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham Hotspur Astro Premier League 2 (token)
+http://royaltv.world:25461/live/T6013/4432/145.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Leeds United vs Tottenham HotspurAstro Grandstand
+http://royaltv.world:25461/live/T6013/4432/146.ts
+
 
 
 ===============22:00 Arsenal vs Hull City
-#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Arsenal vs Hull City  Astro Grandstand
-http://royaltv.world:25461/live/S1048/9886/146.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Arsenal vs Hull City Astro Premier League (token)
+http://royaltv.world:25461/live/T6013/4432/144.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Arsenal vs Hull City Astro Premier League 2 (token)
+http://royaltv.world:25461/live/T6013/4432/145.ts
+#EXTINF:0 tvg-id="ext" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Arsenal vs Hull City Astro Grandstand
+http://royaltv.world:25461/live/T6013/4432/146.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",⭐Arsenal vs Hull City⭐Star Sports Select 1 FHD (👑TATAPLAY)
 http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
