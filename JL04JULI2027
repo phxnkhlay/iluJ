@@ -4299,10 +4299,7 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
 
 ===================
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="FILM",tvN Movies ((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="DUNIA | KOREA",tvN Movies((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 
 
 
@@ -8257,10 +8254,21 @@ INEWS COVER https://i.imgur.com/NTYY97h.jpeg
 
 --------------EDIT INI-----------
 
-#EXTINF:-1 xui-id="9" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",1️⃣ ANTV
+#EXTINF:-1 xui-id="9" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",0️⃣ ANTV
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRqU_VEZRv0Fl_8YeEZ8UsRY
 
-GTV COVER https://i.imgur.com/oZl4oNH.jpeg
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",1️⃣ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
+#EXTINF:-1 xui-id="9" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",2️⃣ANTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
+
 
 
 
