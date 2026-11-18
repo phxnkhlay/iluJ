@@ -3917,7 +3917,7 @@ https://proxy-v.rctiplus.id/live/ios/hunan/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/ios/shanghai/index.m3u8
 
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="" group-title="",🔢MUSIC TV (OMM)
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="" group-title="MUSIC",🔢MUSIC TV (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
@@ -3971,11 +3971,6 @@ https://proxy-v.rctiplus.id/live/web/kidstv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/one/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Sports Star 1 (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",🔢FIGHT SPORTS HD (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4112,11 +4107,6 @@ https://proxy-v.rctiplus.id/live/web/ftv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/set/index.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-logo="" group-title="GAYA HIDUP",🔢ENTERTAINMENT (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ent/index.m3u8
-
 #EXTINF:-1 tvg-id="76" tvg-logo="" group-title="DUNIA | JEPANG NON SUB;BERITA",🔢NHK World Premium (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4197,40 +4187,15 @@ https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/nick/index.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-logo="" group-title="",🔢Food Travel (OMM)
+#EXTINF:-1 tvg-id="71" tvg-logo="" group-title="GAYA HIDUP",🔢Food Travel (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/foodtravel/index.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",🔢Global Trekker (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/globaltrekker/index.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Sportstars (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
+==========SPORTSTAR 1-4 group
+tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE"
 
-#EXTINF:-1 tvg-id="113" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Sportstars 2 (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
-
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Sportstars 3 (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss3/index.m3u8
-
-#EXTINF:-1 tvg-id="205" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Sportstars 4 (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ss4/index.m3u8
-
-#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE",🔢Soccer Channel (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/soccerchannels/index.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",🔢Fight Sports (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4262,11 +4227,6 @@ https://proxy-v.rctiplus.id/live/web/muslimtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/life/index.m3u8
 
-#EXTINF:-1 tvg-id="146" tvg-logo="" group-title="",🔢DW News (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/dwnews/index.m3u8
-
 #EXTINF:-1 tvg-id="147" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",🔢France 24 (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4295,27 +4255,11 @@ https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
 ============================================================================================
 FOX TAB - FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -| 6/11/2026 | ALL PDCTN
 =============================================================================================
---NASIONAL
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="🔵ASIA | INDONESIA VIP",IDS: RCTI (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34322
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: MNC TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="🔵ASIA | INDONESIA VIP",IDS: INDOSIAR (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34327
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: METRO TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: GTV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: KOMPAS TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34332
 -----
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO (🦊🐾 FOXF)
 http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
 
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE"  tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO 2 (🦊🐾 FOXF)
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO 2 (🦊🐾 FOXF)
 http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179191
 
 
@@ -4478,7 +4422,7 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/history/index.m3u8
 
-#EXTINF:-1 group-title="PENGETAHUAN;FILM" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Zc1aFSR.png",CRIME INVESTIGATION  (🦊🐾 FOXF) (NDA)
+#EXTINF:-1 group-title="PENGETAHUAN;FILM" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Apt76JU.jpeg",CRIME INVESTIGATION  (🦊🐾 FOXF) (NDA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
@@ -4676,14 +4620,9 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
 #EXTINF:-1 xui-id="30" tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w8a6hJLZt4-7CsKBp_nrhKs
 
-#EXTINF:-1 xui-id="8737" tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="FILM;GAYA HIDUP;PENGETAHUAN",Crime Investigation (🎃👻)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0koFWVuyuKssnvUi1ImEiQ
 
 #EXTINF:-1 xui-id="68" tvg-id="NGCENTE" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="PENGETAHUAN",National Geographic (🎃👻)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
-
-#EXTINF:-1 xui-id="8736" tvg-id="HCLCHD" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",History (🎃👻)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_kCBPFtSV3uh_ARJwYO4Qw
 
 #EXTINF:-1 xui-id="51" tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="" group-title="FILM",Rock Ent.(SPM)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4kliX4GwylQPjvzwFj15o54
@@ -8557,7 +8496,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
-#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="Indonesia" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",2️⃣ INDOSIAR
+#EXTINF:-1 xui-id="5679" tvg-id="Indosiar.id" tvg-name="Indosiar HD" group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",2️⃣ INDOSIAR
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="itzplay.id" group-title="NASIONAL",3️⃣ INDOSIAR
@@ -9199,14 +9138,7 @@ wwe cover https://i.imgur.com/dWS3vWU.jpeg
 
 ==EDT
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",FIGHT SPORTS (AG) ✅
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
 
 
 
@@ -10363,12 +10295,6 @@ tvg-logo="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation
 === INI VERSI 2nya ==== HGTV COVER tvg-logo="https://i.imgur.com/AUrp3P2.png"
 Food network cover tvg-logo="https://i.imgur.com/vFXFKJy.png"
 
-
-
-
-#EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", This Old House (AG)
-https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
-
 tvg-logo="https://i.imgur.com/neWMOy3.png" group-title="GAYA HIDUP",🆕Hanacaraka TV (🚀8826)
 
 
@@ -10508,18 +10434,8 @@ PENGETAHUAN
 NEW 4/5/2025
 ==========
 
-#EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg",🆕Dens Knowledge (167)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
-
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg", TRAVELXP (AG)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", Discovery Turbo (AG)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY HIT 1 ON (R)
@@ -10529,16 +10445,6 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Global.Trekker.id" tvg-name="Global Trekker" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",GLOBAL TREKKER
-https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat EXPLORE 🇬🇧 🇧🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -12321,57 +12227,29 @@ ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL I
 ============================================================ALLINONEBAR=============================================================================================
 #EXTINF:-1 group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE", tvg-id="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | ;OLAHRAGA | FORMULA 1",🆕BEIN SPORTS 1 (🚀8826)
 
-#EXTINF:-1 tvg-id="706" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",🆕SPOTV FHD (U)
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.ts
-#EXTINF:-1 tvg-id="707" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",🆕SPOTV 2 FHD (U)
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.ts
+-->GROUPNYA SPOTV 
+tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL"
 
+--> GROUPNYA SPOTV Versi 2
+tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL"
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (CG)
-###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL", SPOTV 2 (CG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV - Server 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS) 🇮🇩
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=119
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2 - Server 1" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2 (🏆AIOS) 🇮🇩
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2  (🏆AIOS) 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL"
 
 
 
 
 ====spotv LOKAL group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS)
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2 (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
@@ -12386,7 +12264,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 =====soccer ^& sportstar  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPORTSTARS(🏆AIOS)
 
 #EXTINF:-1 xui-id="209" tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE", SOCCER_CHANNEL (🏆AIOS)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wx3NEbx7cuxeYgbQsX4LN2o
+
 
 
 ============SPORTSTAR 1 * 2 FiX
@@ -13577,6 +13455,41 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://get.perfecttv.net/mutv.mpd
 
 ============================
+#EXTINF:-1 group-logo="https://i.imgur.com/lcD6xye.jpeg",EVENT | SHOPEE CUP 2026
+
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" tvg-id="MNCNews.id" group-title="EVENT | SHOPEE CUP 2026" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-origin=https://www.youtube.com
+https://www.youtube.com/watch?v=UYFVWSaC480
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcD6xye.jpeg" tvg-id="itzplay.id" group-title="EVENT | SHOPEE CUP 2026",🔢RCTI (OMM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🔢GTV (OMM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="SCTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ SCTV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRsPxWAgyZTvEmHSbE_IUH5A
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ RCTI (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ MNC TV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ GTV (🤖SPM)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 
 #EXTINF:-1 group-logo="https://i.imgur.com/tRY91LJ.jpeg",BOLA | ASEAN CHAMPIONSHIP 2026
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -13602,6 +13515,8 @@ EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELE
 DIHAPUS
 +++++++++++++++++++
 #EXTINF:-1 group-logo="https://i.imgur.com/6gTwzHE.png",BOLA | AFC ASIAN CUP 2025
+
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI-EVENT SELESAI
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
