@@ -4465,10 +4465,33 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 
 
-============================================================================================
+==s==========================================================================================
 FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026 | NASIONAL
 =============================================================================================
+PIV
 
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",🦌RCTI (PIV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
+
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🦌MNC TV (PIV)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
+
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🦌GTV (PIV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
+
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",🦌iNEWS (PIV)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
 
 ==============LAIN LAIN
 
@@ -13481,6 +13504,29 @@ http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
 #EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",0️⃣ GTV (🤖SPM)
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
+
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🦌RCTI (PIV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
+
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🦌MNC TV (PIV)
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
+
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🦌GTV (PIV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
+
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.imgur.com/lcD6xye.jpeg" group-title="EVENT | SHOPEE CUP 2026",🦌iNEWS (PIV)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
 
 
 
