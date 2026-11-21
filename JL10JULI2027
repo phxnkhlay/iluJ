@@ -3881,16 +3881,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 ============================================================================================
 OMM TAB-OMM TAB-OMM TAB-OMM TAB-OMM TAB-OMM TAB-OMM TAB-OMM TAB-| 13/11/2026 | ALL VISION (OMM)
 ===========================================================================================
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" tvg-id="itzplay.id" group-title="NASIONAL",🔢RCTI (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🔢MNCTV HD (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🔢BTV (V+) (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3902,17 +3893,12 @@ https://proxy-v.rctiplus.id/live/web/btv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/bloomberg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH" group-logo="https://warningfm.github.io/v3/img/vOExED2.png" tvg-id="Bali.TV.id" tvg-name="Bali TV",🔢Bali TV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bali/index.m3u8
-
 #EXTINF:-1 group-title="DUNIA | CHINA" tvg-logo="https://i.imgur.com/x17WfiT.jpeg",🔢Hunan TV (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/ios/hunan/index.m3u8
 
-#EXTINF:-1 group-title="DUNIA | TAIWAN ETC" tvg-logo="https://i.imgur.com/eCBAXse.jpeg",🔢Dragon TV (OMM)
+#EXTINF:-1 group-title="DUNIA | TAIWAN ETC;DUNIA | CHINA" tvg-logo="https://i.imgur.com/eCBAXse.jpeg",🔢Dragon TV (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/ios/shanghai/index.m3u8
@@ -3927,21 +3913,6 @@ https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/fightsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🔢GTV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",🔢GTV WORLD (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtvworld/index.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",🔢MNC TV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
-
 #EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",🔢iNews (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3951,11 +3922,6 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",🔢Nickelodeon (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nick/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",🔢Nick Jr (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3967,10 +3933,6 @@ https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/kidstv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL",🔢ONE (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/one/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",🔢FIGHT SPORTS HD (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3987,16 +3949,6 @@ https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="" group-title="NASIONAL",🔢TRANS TV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo="" group-title="NASIONAL",🔢TRANS 7 (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
-
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/LoyaFMC.jpeg" group-title="NASIONAL",🔢RTV (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4007,10 +3959,6 @@ https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/moji/index.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK",🔢MENTARI TV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mentaritv/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="NASIONAL;BERITA",🔢SINDO News (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4047,11 +3995,6 @@ https://proxy-v.rctiplus.id/live/web/tvri/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/daaitv/index.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/2I1JVRz.jpeg" group-title="NASIONAL",🔢MDTV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mdtv/index.m3u8
-
 #EXTINF:-1 tvg-id="24" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",🔢JTV (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4067,7 +4010,7 @@ https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/bandungtv/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg" group-title="DUNIA | MALAYSIA",🔢TV 9 (OMM)
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg" group-title="DUNIA | MALAYSIA;AGAMA",🔢TV 9 (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/tv9/index.m3u8
@@ -4086,26 +4029,6 @@ https://proxy-v.rctiplus.id/live/web/tvmu/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
-
-#EXTINF:-1 tvg-id="50" tvg-logo="" group-title="FILM",🔢iMC (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/imc/index.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",🔢Studio Universal (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/studiouniversal/index.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-logo="" group-title="DUNIA | CHINA",🔢FTV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/ftv/index.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-logo="" group-title="DUNIA | CHINA",🔢SET (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/set/index.m3u8
 
 #EXTINF:-1 tvg-id="76" tvg-logo="" group-title="DUNIA | JEPANG NON SUB;BERITA",🔢NHK World Premium (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4132,41 +4055,6 @@ https://proxy-v.rctiplus.id/live/web/celebrities/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
-#EXTINF:-1 tvg-id="158" tvg-logo="" group-title="DUNIA | CHINA",🔢Xing Kong TV (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/xingkong/index.m3u8
-
-#EXTINF:-1 tvg-id="163" tvg-logo="" group-title="BERITA",🔢Tv5 Monde (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/tv5monde/index.m3u8
-
-#EXTINF:-1 tvg-id="165" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",🔢ABC Tv (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/abc/index.m3u8
-
-#EXTINF:-1 tvg-id="204" tvg-logo="" group-title="FILM",🔢Drama World (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/dramaworld/index.m3u8
-
-#EXTINF:-1 tvg-id="201" tvg-logo="" group-title="NASIONAL",🔢RCTI World (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rctiworld/index.m3u8
-
-#EXTINF:-1 tvg-id="202" tvg-logo="" group-title="NASIONAL",🔢GTV World (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtvworld/index.m3u8
-
-#EXTINF:-1 tvg-id="203" tvg-logo="" group-title="NASIONAL",🔢MNCTV World (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
-
 #EXTINF:-1 tvg-id="57" tvg-logo="https://i.imgur.com/JVMAQA2.jpeg" group-title="ANAK",🔢Moonbug (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4181,11 +4069,6 @@ https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
-
-#EXTINF:-1 tvg-id="64" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",🔢Nick (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nick/index.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-logo="" group-title="GAYA HIDUP",🔢Food Travel (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4202,10 +4085,7 @@ tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/fightsports/index.m3u8
 
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",🔢BBC News (OMM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcnews/index.m3u8
+
 
 #EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",🔢CNBC (OMM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4341,18 +4221,6 @@ https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
 ===
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CELESTIAL MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/celestialmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: CELESTIAL MOVIES (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34342
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: THRILL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/thrill.png" group-title="🔵ASIA | INDONESIA VIP",IDS: THRILL (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34343
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hits.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34345
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hitsmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS MOVIES (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34352
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",ORIGINALS (🦊🐾 FOXF) (OM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4619,6 +4487,29 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4okghq8b7IxQyl1atKqxrEs
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax HD (🦇)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4k7jfUWSeWjhnf2JANHYtas
+
+==================
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/dhbuIcw.jpeg",🤡 ID: HBO (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306484
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/dhbuIcw.jpeg",🤡 ID: HBO 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197972
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/kkMv5vL.jpeg",🤡 ID: HBO Family 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197055
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/SL2eG04.jpeg",🤡 ID: HBO Hits (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306486
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/SL2eG04.jpeg",🤡 ID: HBO Hits 1080 (CLWN)
+http://013tv.com:8080/F24657/f44540b5/196480
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/X4vptVQ.jpeg",🤡 ID: HBO Signature (CLWN)
+http://013tv.com:8080/F24657/f44540b5/306483
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/nMGp9FR.jpeg",🤡 ID: Cinemax (CLWN)
+http://013tv.com:8080/F24657/f44540b5/197964
+==================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8955,21 +8846,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 =============
 
 
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
 
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
 
 
 
@@ -12263,16 +12140,19 @@ group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BIL
 
 ====spotv LOKAL group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS)
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS)
-http://31.43.191.125:8080/VIP012161760275967100/195205e7df1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2 (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kocet.my.id/pisionplus/new/widevine.php?id=120
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+====
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS A)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34638
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2(🏆AIOS A)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34663
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP"  tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2(🏆AIOS B)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34405
+#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV (🏆AIOS B)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34406
 
 
 
