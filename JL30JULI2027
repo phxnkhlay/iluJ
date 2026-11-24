@@ -8345,7 +8345,12 @@ vision
 
 ===========
 ===========
-
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MENTARI TV |V|" tvg-name="MENTARI TV |V|" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL;ANAK",0️⃣MENTARI TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vidsemar.pages.dev/terraluna3/8237.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
