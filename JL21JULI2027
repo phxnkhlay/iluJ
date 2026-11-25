@@ -9478,37 +9478,87 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/pyEAVQW.jpeg",EVENT | ACL LEAGUE TWO
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌MELBOURNE VICTORY VS CONG-VIETTEL FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
-https://www.youtube.com/watch?v=SgD3ckneuoQ
+https://www.youtube.com/watch?v=OxXLAMOgh9g
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY⭐ BEIN SPORTS 5 (BRN)
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌MELBOURNE VICTORY VS CONG-VIETTEL FC ⭐ BEIN SPORTS 2 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
 
-#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY⭐Soccer Channel (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌MELBOURNE VICTORY VS CONG-VIETTEL FC ⭐Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/soccer/index.m3u8
+
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS FC SEOUL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+https://www.youtube.com/watch?v=a4BTcRhR5IY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS FC SEOUL ⭐ BEIN SPORTS 2 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
+
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS FC SEOUL ⭐Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/soccer/index.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/soccer/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+==
+#EXTINF:-1 tvg-id="MEWACTH CH 01" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWACTH CH 01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beafbeda7af7415aa87319aa853a6d5a:d3d90130ead40d509769e3a153e31a6e
+https://tglmp03.akamaized.net/out/v1/95ed6a9d046f40d89fcdebf5382a77e4/manifest.mpd
+#EXTINF:-1 tvg-id="MEWACTH CH 02" tvg-name="MEWACTH CH 02" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWACTH CH 02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5bfae7a7734b6588751535ba5003e3:6a12f11fc8c0fda4031f3564bfa18b7d
+https://tglmp02.akamaized.net/out/v1/7a4f89ece28140ae8c7fe8f9191f6520/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH 2 🇸🇬 (SHOPEE CUP)" tvg-name="MEWATCH 2 🇸🇬 (SHOPEE CUP)" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH 2 🇸🇬 (SHOPEE CUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH 5 🇸🇬 (AFC TWO)" tvg-name="MEWATCH 5 🇸🇬 (AFC TWO)" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH 5 🇸🇬 (AFC TWO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH 6 🇸🇬 (AFC TWO)" tvg-name="MEWATCH 6 🇸🇬 (AFC TWO)"tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH 6 🇸🇬 (AFC TWO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH 7 🇸🇬 (CARABAO)" tvg-name="MEWATCH 7 🇸🇬 (CARABAO)" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH 7 🇸🇬 (CARABAO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH 8 🇸🇬" tvg-name="MEWATCH 8 🇸🇬" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH 8 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6658250dab6d496e80df5a28ffaa8100:7d144b673921e434609eb9354e445092
+https://tglmp01.akamaized.net/out/v1/c404d0cfb23e4b1c89d4f6325e92a4e9/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH CH 03" tvg-name="MEWATCH CH 03" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH CH 03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84a1304100245bfaa52a9d75cef19b1:c63140b100a0ce0c2c95faacc83b4950
+https://tglmp02.akamaized.net/out/v1/9001243ec72f4ab68be17874c052d7d2/manifest.mpd
 
-#EXTINF:-1 tvg-id="rbtv-4479806" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 3
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/AEM0EMf4NBKQqf0zLBMkbrj_h1ucL_OhHM79IHti7iJz7MuM6A.m3u8?s=0&proxy_seg=1
+#EXTINF:-1 tvg-id="FANCODE" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐FANCODE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="rbtv-4479806"  tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4",📌PERSIB BANDUNG VS MELBOURNE VICTORY 4
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/rGIPusFrP4Q4r96Ctn6W8kiiq-ePnDkikvKsqD607lC2jKwQ1A.m3u8?s=0&proxy_seg=1
+#EXTINF:-1 tvg-id="MEWATCH SPL 01 🇸🇬" tvg-name="MEWATCH SPL 01 🇸🇬" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH SPL 01 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+#EXTINF:-1 tvg-id="MEWATCH SPL 02 🇸🇬" tvg-name="MEWATCH SPL 02 🇸🇬" tvg-logo="https://i.imgur.com/pyEAVQW.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ACL LEAGUE TWO" event-duration="4", ⭐MEWATCH SPL 02 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 
 
